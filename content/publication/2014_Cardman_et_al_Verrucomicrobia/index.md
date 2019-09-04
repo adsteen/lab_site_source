@@ -22,7 +22,7 @@ tags:
 title: "Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard"
 url_code: ""
 url_dataset: ""
-url_pdf: pdf/
+url_pdf: pdf/2014_Cardman_et_al_Verrucomicrobia.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

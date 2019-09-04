@@ -19,8 +19,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: 
-    Extracellular enzymes in terrestrial, freshwater, and marine environments: Perspectives on system variability and common research needs
+title: "Extracellular enzymes in terrestrial, freshwater, and marine environments: Perspectives on system variability and common research needs"
 url_code: ""
 url_dataset: ""
 url_pdf: pdf/2014_Arnosti_review.pdf
