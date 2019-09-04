@@ -4,6 +4,9 @@ authors:
 bio: We in the Steen Lab want to understand how microbes interact with organic matter in aquatic systems. To do that, I use the tools of organic geochemistry as well as microbial ecology. These questions have lead us to work on new approaches to analyze DNA sequences from environmental microbiomes and to study the distribution of taxa and functions across all of microbial life.
 education:
   courses:
+  - course: Postdoctoral Researcher
+    institution: Center for Geomicrobiology, Aarhus University
+    year: "2009-2011"
   - course: PhD in Marine Science
     institution: University of North Carolina - Chapel Hill
     year: 2009
