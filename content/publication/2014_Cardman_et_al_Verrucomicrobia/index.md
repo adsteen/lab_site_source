@@ -19,7 +19,7 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: "*Verrucomicrobia* Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard"
+title: "Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard"
 url_code: ""
 url_dataset: ""
 url_pdf: pdf/

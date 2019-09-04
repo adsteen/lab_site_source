@@ -68,7 +68,7 @@ office_hours = ""
 #                   Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendar.google.com/calendar/embed?src=andrew.decker.steen%40gmail.com&ctz=America/New_York"
+appointment_url = "https://calendar.google.com/calendar/embed?mode=week&src=andrew.decker.steen%40gmail.com&ctz=America/New_York"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
