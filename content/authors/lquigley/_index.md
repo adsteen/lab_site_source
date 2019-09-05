@@ -1,35 +1,31 @@
 ---
 authors:
-- troyalty
-bio: I like data science.
+- lquigley
+bio: Now I have a real job.
 education:
   courses:
-  - course: MS in Marine Science
-    institution: NCSU
-    year: 2016
-  - course: BSc in Biology
-    institution: Appalachian State University
-    year: 2014
-email: "troyalty@vols.utk.edu"
+  - course: Ph.D. in Microbiology
+    institution: University of Tennessee - Knoxville
+    year: 2018
+email: ""
 interests:
-- Bioinformatics
-- Data science
-- Proteomics
-name: Taylor Royalty
+- Metagenomics
+- Metatranscriptomics
+name: Lauren N. M. Quigley
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
-role: Ph. D. student
+role: Alumna
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=cgJwfFwAAAAJ
-superuser: true
+  link: https://scholar.google.com/citations?user=gaJE5xwAAAAJ&hl=en&oi=sra
+superuser: false
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Taylor Royalty has been doing some cool meta-analyses, which are coming out soon in mSystems and mSphere. 
+Lauren earned her Ph.D. in Microbiology at the University of Tennessee - Knoxville in [Dr. Alison Buchan's lab](https://sites.google.com/vols.utk.edu/buchanlab/home), with Dr. Steen as a co-advisor. Since graduating in 2018, she completed a postdoctoral appointment at the [Forsyth Institute](https://forsyth.org) in Boston, and now works in industry. 
