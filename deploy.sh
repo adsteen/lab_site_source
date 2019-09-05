@@ -19,9 +19,9 @@ cd public
 # Add changes to git.
 git add .
 
-echo -n "Please enter the commit message:"
-read msg
-echo "Your message was $msg"
+# echo -n "Please enter the commit message:"
+# read msg
+# echo "Your message was $msg"
 
 # Commit changes.
 msg="rebuilding site $(date)"
