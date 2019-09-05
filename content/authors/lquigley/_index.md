@@ -8,7 +8,7 @@ education:
     institution: NCSU
     year: 2016
   - course: BSc in Biology
-    institution: Western Carolina University
+    institution: Appalachian State University
     year: 2014
 email: "troyalty@vols.utk.edu"
 interests:
