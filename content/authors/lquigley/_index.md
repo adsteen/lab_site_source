@@ -4,13 +4,13 @@ authors:
 bio: Now I have a real job.
 education:
   courses:
-    - course: Postdoctoral Researcher
+  - course: Postdoctoral Researcher
     institution: Forsyth Institute
     year: 2018-2019
   - course: Ph.D. in Microbiology
     institution: University of Tennessee - Knoxville
     year: 2018
-    - course: BSc in Biological Sciences
+  - course: BSc in Biological Sciences
     institution: University of Notre Dame
     year: 2012
 email: "lauren.mach.quigley@gmail.com"
