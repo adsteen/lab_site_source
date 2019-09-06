@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2014-09-01T00:00:00Z"
 doi: "10.1007/s10533-013-9906-5"
-featured: true
+featured: false
 image:
   caption: 'A conceptual figure of important differences among environmnets with respect to extracellular enzymes.'
   focal_point: ""
