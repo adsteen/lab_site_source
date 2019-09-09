@@ -16,7 +16,7 @@ baseurl = "https://adsteen.github.io/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-60056958-1"
 
 ############################
 ## Advanced options below ##
