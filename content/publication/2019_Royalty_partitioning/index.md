@@ -3,9 +3,9 @@ abstract: "Widely used microbial taxonomies, such as the NCBI taxonomy, are base
 authors:
 - troyalty
 - admin
-date: "2019-06-19T00:00:00Z"
-doi: "110.1128/mSphere.00446-19"
-featured: true
+date: "2019-09-09T00:00:00Z"
+doi: "10.1128/AEM.00102-19"
+featured: false
 image:
   caption: 
   focal_point: ""
@@ -15,19 +15,19 @@ publication: 'ISME Journal'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-06-19T00:00:00Z"
+publishDate: "2019-09-09T00:00:00Z"
 slides: 
 summary: 
 tags:
 - Source Themes
-title: Quantitatively Partitioning Microbial Genomic Traits among Taxonomic Ranks across the Microbial Tree of Life
+title: Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC
 url_code: ""
 url_dataset: ""
 url_pdf: pdf/2019_Royalty_Steen_COG_partitioning.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://msphere.asm.org/content/4/4/e00446-19"
+url_source: "https://aem.asm.org/content/early/2019/07/15/AEM.00102-19"
 url_video: ""
 ---
 
