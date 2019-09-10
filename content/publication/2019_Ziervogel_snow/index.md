@@ -26,7 +26,7 @@ url_pdf: pdf/2019_Ziervogel_snow.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.nature.com/articles/s41396-019-0484-y"
+url_source: "https://www.elementascience.org/articles/10.1525/elementa.371/"
 url_video: ""
 ---
 
