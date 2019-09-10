@@ -6,7 +6,7 @@ date: "2019-08-06T00:00:00Z"
 doi: "10.1038/s41396-019-0484-y"
 featured: true
 image:
-  caption: 
+  caption: "Plates ready to culture previously uncultured microbes. Image courtesy Kristen DeAngelis."
   focal_point: ""
   preview_only: false
 projects: []
