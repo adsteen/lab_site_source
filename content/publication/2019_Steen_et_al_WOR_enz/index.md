@@ -20,14 +20,14 @@ slides:
 summary: 
 tags:
 - Source Themes
-title: High proportions of bacteria and archaea across most biomes remain uncultured
-url_code: ""
+title: Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina
+url_code: "https://github.com/adsteen/WOR_enz_2013_2014"
 url_dataset: ""
-url_pdf: pdf/2019_Steen_et_al_Uncultured.pdf
+url_pdf: pdf/2019_Steen_et_al_WOR.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://www.nature.com/articles/s41396-019-0484-y"
+url_source: ""
 url_video: ""
 ---
 
