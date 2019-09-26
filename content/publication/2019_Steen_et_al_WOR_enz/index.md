@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'ISME Journal'
+publication: 'Applied and Environmental Microbiology'
 publication_short: ""
 publication_types:
 - "2"
