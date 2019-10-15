@@ -18,7 +18,7 @@ name: P. Drew Mather
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
-role: Alumna
+role: Alumnus
 social:
 - icon: envelope
   icon_pack: fas
