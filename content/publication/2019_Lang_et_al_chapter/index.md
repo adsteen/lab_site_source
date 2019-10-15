@@ -24,7 +24,7 @@ tags:
 title: "Carbon in the deep biosphere: forms, fates, and biogeochemical cycling"
 url_code: ""
 url_dataset: ""
-url_pdf: 
+url_pdf: pdf/2019_Lang_et_al_DCO_chapter.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
