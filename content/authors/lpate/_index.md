@@ -24,6 +24,7 @@ social:
 superuser: true
 user_groups:
 - Undergrads
+draft: true
 ---
 
 Lauren Pate joined the lab in Fall 2019. She is currently writing software to process data from several TB of BLAST search results of a large quantity of publicly-available genomic and metagenomic data.

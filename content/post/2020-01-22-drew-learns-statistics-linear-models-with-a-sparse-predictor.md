@@ -20,6 +20,7 @@ header-includes:
    - \usepackage{amssymb}
    - \usepackage{amsfonts}
 output: md_document
+draft: true
 ---
   
 {{ if and (not .Params.disable_mathjax) (or (in (string .Content) "\\") (in (string .Content) "$")) }}
