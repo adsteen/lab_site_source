@@ -15,6 +15,7 @@ education:
     year: 2012
 email: "lauren.mach.quigley@gmail.com"
 interests:
+- Aromatic carbon metabolism
 - Metagenomics
 - Metatranscriptomics
 name: Lauren N. M. Quigley

@@ -6,7 +6,7 @@ education:
   courses:
   - course: BS in Geology and Environmental Studies
     institution: UT-Knoxville
-    year: expected 2020
+    year: 2020
 email: "alonerga@vols.utk.edu"
 interests:
 - Geomicrobiology
@@ -25,4 +25,4 @@ user_groups:
 - Undergrads
 ---
 
-Andrew has been in the lab since 2017, during which time he has investigated the activites of extracellular enzymes in hot springs in Panama.
+Andrew has been in the lab since 2017, during which time he has investigated the activities of extracellular enzymes in hot springs in Panama.

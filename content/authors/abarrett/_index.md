@@ -28,4 +28,6 @@ user_groups:
 - Alumni
 ---
 
-I work as a consultant for [Weston and Sampson](https://www.westonandsampson.com/).
+Abby joined the lab in 2016 and studied the distribution of peptidases in small freshwater bodies in East Tennessee, as well as in the Pocono Mountains in Pennsylvania. Abby also worked with high school students as part of the Malcolm X Shabazz High School Aquatic Geochemistry Team. 
+
+After graduating, Abby went to work as an environmental consultant with [Weston and Sampson](https://www.westonandsampson.com/), and now works as a data scientist.

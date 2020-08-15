@@ -15,11 +15,19 @@ interests:
 - Nanomaterials in biological environments
 - Nanosensor development
 name: Rebecca L. Pinals
+organizations:
+- name: Brown University
+  url: "https://www.brown.edu"
+- name: University of California - Berlekey
+  url: "https://www.berkeley.edu/"
 role: Visiting student
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''
+  link: '#contact'
+- - icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=AYIVcrAAAAAJ&hl=en&oi=ao
 superuser: false
 user_groups:
 - Alumni

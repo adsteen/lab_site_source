@@ -6,13 +6,13 @@ education:
   courses:
   - course: MS in Geology
     institution: UT-Knoxville
-    year: expected 2020
+    year: 2020
   - course: BSc in Microbiology
     institution: UT-Knoxville
     year: 2014
 email: "lmullen@vols.utk.edu"
 interests:
-- Geomicrobiology
+- Microbial Ecology
 - Extracellular enzymes
 - Health microbiology
 name: Lauren Mullen

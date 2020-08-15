@@ -27,7 +27,7 @@ social:
   link: ''
 superuser: true
 user_groups:
-- Undergrads
+- Alumni
 ---
 
-Zach has been with the lab since 2017, during which time he has investigated the priming effect in Tennessee waterways near Knoxville, TN. Zach is also working on a project exploring the role of factors like extracellular enzyme activities, sediment grain size, mineralogy, and manganese speciation on the preservation of proteinaceous organic matter in sediments of the White Oak River estuary, NC. 
+Zach was been with the lab from 2017-2020, during which time he worked on several projects relating to geological controls on microbially-catalyzed carbon cycling in marine and estuarine sediments. 

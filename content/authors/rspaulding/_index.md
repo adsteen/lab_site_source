@@ -6,7 +6,7 @@ education:
   courses:
   - course: BS in Geology and Earth and Planetary Sciences
     institution: UT-Knoxville
-    year: expected 2020
+    year: 2020
 email: ""
 interests:
 - STEM teaching
@@ -14,7 +14,7 @@ interests:
 name: Russell Spaulding II
 organizations:
 - name: University of Tennessee - Knoxville
-  url: ""
+  url: "https://www.utk.edu"
 role: undergrad
 social:
 - icon: envelope
@@ -22,7 +22,7 @@ social:
   link: ''
 superuser: true
 user_groups:
-- Undergrads
+- Alumni
 ---
 
-Russell Spaulding joined the lab in Fall 2019. He is working on an outreach project to involve high school students in research on microplastics.
+Russell Spaulding joined the lab in Fall 2019 and worked on an NSF-funded outreach project to involve high school students in research on microplastics. He now teaches 8th-grade science in Blount County, TN. 

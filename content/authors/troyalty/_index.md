@@ -10,7 +10,7 @@ education:
   - course: BSc in Biology
     institution: Western Carolina University
     year: 2014
-email: "troyalty@vols.utk.edu"
+email: "zstooksbury@gmail.com"
 interests:
 - Bioinformatics
 - Data science
@@ -29,7 +29,7 @@ social:
   link: https://scholar.google.com/citations?user=cgJwfFwAAAAJ
 superuser: true
 user_groups:
-- Grad Students
+- Postdocs
 ---
 
-Taylor Royalty has been doing some cool meta-analyses, which are coming out soon in mSystems and mSphere. 
+Taylor is interested in using data science approaches to better understand the distribution of microbial functions across phylogeny and space. After earning a Ph.D. in Geology from UT-Knoxville in three years, he moved to a position as a post-doc in the Steen Lab, where he is working on using neural networks for better understand genomes of uncultured microorganisms in thawing Arctic permafrost.

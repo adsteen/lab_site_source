@@ -29,4 +29,4 @@ user_groups:
 - Alumni
 ---
 
-Chris graduated from the Steen Lab in 2020. After working on a project related to microbial degradation of microcystin, he developed a passion for data science. He combined the two projects to produce an R package, [ezmmek](https://cran.r-project.org/web/packages/ezmmek/index.html) to facilitate and standardize the calculation of enzyme kinetics using chromogenic or fluorogenic substrates in environmetnal samples.
+Chris graduated from the Steen Lab in 2020. After working on a project related to microbial degradation of microcystin, he developed a passion for data science. He combined the two projects to produce an R package, [ezmmek](https://cran.r-project.org/web/packages/ezmmek/index.html) to facilitate and standardize the calculation of enzyme kinetics in environmental samples using chromogenic or fluorogenic substrates.
