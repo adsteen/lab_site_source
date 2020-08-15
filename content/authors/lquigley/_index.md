@@ -21,7 +21,7 @@ name: Lauren N. M. Quigley
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
-role: Alumna
+role: Ph.D. student
 social:
 - icon: envelope
   icon_pack: fas
