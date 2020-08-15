@@ -6,7 +6,7 @@ education:
   courses:
   - course: MS in Geology
     institution: UT-Knoxville
-    year: expected 2020
+    year: 2020
   - course: ScB in Geology
     institution: Towson University
     year: 2017
@@ -26,7 +26,7 @@ social:
   link: '#contact'
 superuser: true
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Chris is working on the mechanisms by which microcystin, a toxin produced in harmful algal blooms, is degraded by heterotrophic microbes.
+Chris graduated from the Steen Lab in 2020. After working on a project related to microbial degradation of microcystin, he developed a passion for data science. He combined the two projects to produce an R package, [ezmmek](https://cran.r-project.org/web/packages/ezmmek/index.html) to facilitate and standardize the calculation of enzyme kinetics using chromogenic or fluorogenic substrates in environmetnal samples.
