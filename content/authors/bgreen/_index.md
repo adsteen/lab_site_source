@@ -4,8 +4,8 @@ authors:
 bio: Now I work on viruses.
 education:
   courses:
-  - course: BS in Geology
-    institution: New Mexico Tech
+  - course: BS in Earth Science
+    institution: New Mexico Institute of Mining and Technology
     year: 2020
 email: "bgreen@vols.utk.edu"
 interests:
@@ -23,4 +23,4 @@ user_groups:
 - Grad Students
 ---
 
-Brianna is a new grad student, studying for a Master's degree in Geology.
+ I enjoy looking at water contaminants and it’s interaction with rocks and life around (biogeochemistry). I also like exploring the relationship between climate cycles and biogeochemistry. In summary, biogeochemistry as it pertains to water, soil, and climate!
