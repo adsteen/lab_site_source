@@ -12,7 +12,7 @@ interests:
 name: Brianna Green
 organizations:
 - name: University of Tennessee - Knoxville
-  url: ""
+  url: "https://www.utk.edu"
 role: Master's student
 social:
 - icon: envelope
@@ -23,4 +23,4 @@ user_groups:
 - Grad Students
 ---
 
- I enjoy looking at water contaminants and it’s interaction with rocks and life around (biogeochemistry). I also like exploring the relationship between climate cycles and biogeochemistry. In summary, biogeochemistry as it pertains to water, soil, and climate!
+I enjoy looking at water contaminants and it’s interaction with rocks and life around (biogeochemistry). I also like exploring the relationship between climate cycles and biogeochemistry. In summary, biogeochemistry as it pertains to water, soil, and climate!
