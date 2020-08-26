@@ -33,7 +33,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/biogeobiochem
+  link: https://twitter.com/drdrewsteen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JKSGdVIAAAAJ

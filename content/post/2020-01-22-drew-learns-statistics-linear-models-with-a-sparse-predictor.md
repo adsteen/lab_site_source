@@ -67,7 +67,7 @@ $$
 and
 \[@Hao\_and\_Y\](<a href="https://twitter.com/Hao_and_Y" class="uri">https://twitter.com/Hao_and_Y</a>)
 kindly [led
-me](https://twitter.com/biogeobiochem/status/1219267790563151884) via
+me](https://twitter.com/drdrewsteen/status/1219267790563151884) via
 Twitter to a solution that seems mathematically correct and is easy to
 code, which I want to archive here.
 
