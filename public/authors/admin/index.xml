@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steen Lab</title>
+    <link>https://adsteen.github.io/authors/admin/</link>
+      <atom:link href="https://adsteen.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steen Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>Steen Lab</title>
+      <link>https://adsteen.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>Analytical and Computational Advances, Opportunities, and Challenges in Marine Organic Biogeochemistry in an Era of “Omics”</title>
+      <link>https://adsteen.github.io/publication/2020_steen_hwk_review/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2020_steen_hwk_review/</guid>
+      <description>&lt;p&gt;In 2019, &lt;a href=&#34;https://marine.unc.edu/people/faculty/arnosti/&#34;&gt;Carol Arnosti&lt;/a&gt;, &lt;a href=&#34;https://uol.de/en/icbm/marine-geochemistry/staff/prof-dr-thorsten-dittmar&#34;&gt;Thorsten Dittmar&lt;/a&gt;, &lt;a href=&#34;https://www.marum.de/en/Kai-Uwe-Hinrichs.html&#34;&gt;Kai-Uwe Hinrichs&lt;/a&gt;, &lt;a href=&#34;https://www.somas.stonybrook.edu/people/faculty/cindy-lee/&#34;&gt;Cindy Lee&lt;/a&gt;, and &lt;a href=&#34;https://www.skio.uga.edu/people/faculty/stuart-wakeham/&#34;&gt;Stuart Wakeham&lt;/a&gt; organized a workshop of organic geochemists at the &lt;a href=&#34;https://www.h-w-k.de/&#34;&gt;Hanse-Wissenschaftskolleg&lt;/a&gt; (Institute for Advanced Study) in Delmenhorst, Germany. I was privileged to serve as the lead author of the Analytical Chemistry working group, in which we discussed advances since the John Hedges Memorial Symposium in 2004^[Coincidentally, this was the first conference I ever attended.], and the opportunities for technological development in marine organic geochemistry over the next decade or so.&lt;/p&gt;
+&lt;p&gt;2004 was an interesting marker because this roughly corresponds to the period in which &amp;lsquo;omics technologies became accessible to marine organic geochemistry. Marine organic geochemists in 2020 need to be thinking about the inner workings of microbial communities in the ocean (and, indeed, my research has shifted during this period from more-or-less pure geochemistry to bioinformatics). It was interesting to me that the single point of unanimity among the reviewers of this manuscript was the idea that advances in computational techniques and tools, such as git, GitHub, and interpreted languages such as R and python, are critical to the field, so that section was substantially expanded during reviews. Going forward, it is clear that there is no meaningful organic geochemistry without microbial ecology, genomics, and even genetics.&lt;/p&gt;
+&lt;p&gt;Typically, the flow of information has been primarily from basic microbiology to microbial ecology to organic geochemistry, at least as far as environmental biomarkers are concerned. An unexpected (to me at least) consequence of the union of &amp;lsquo;omics technologies with organic geochemistry is that it allows us to study microbes in their natural environment much more realistically. I&amp;rsquo;m looking forward to the next seminar in this series, perhaps ten or fifteen years from now. I expect in that time we will have gained many new insights about marine organic geochemistry, but also that the work of marine organic geochemists will have spawned important new findings in microbial physiology and ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patterns in extracellular enzyme activity and microbial diversity in deep-sea Mediterranean sediments</title>
+      <link>https://adsteen.github.io/publication/2020_mahmoudi_med/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2020_mahmoudi_med/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The fate of organic carbon in marine sediments - New insights from recent data and analysis</title>
+      <link>https://adsteen.github.io/publication/2020_larowe_review/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2020_larowe_review/</guid>
+      <description>&lt;p&gt;This review of the fate of organic carbon in marine sediments came from a &lt;a href=&#34;https://www.darkenergybiosphere.org/&#34;&gt;C-DEBI&lt;/a&gt;-funded workshop that Doug and I organized in Knoxville in March of 2018. We argue that recent work by organic geochemists and microbial ecologists, working in both sediments and soils, supports the old but sometimes neglected notion of conditional organic matter reactivity: the rate at which organic carbon in sediments is oxidized is a function not just of the chemical properties of organic matter, but of the ecosystem as a whole.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the fallacy of the work-life balance</title>
+      <link>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</guid>
+      <description>&lt;p&gt;A little while ago I was asked by &lt;a href=&#34;https://www.darkenergybiosphere.org/&#34;&gt;C-DEBI&lt;/a&gt; to give a webinar* for their &lt;a href=&#34;https://www.darkenergybiosphere.org/outputs-resources/professional-development-webinar-series/&#34;&gt;Professional Development Series&lt;/a&gt; on work-life balance. Now, I can&amp;rsquo;t claim to have any particular insight into that subject, but while I was preparing for it, I did stumble on an idea that has stuck with me: **the idea of &amp;lsquo;work-life balance&amp;rsquo; is totally the wrong frame** for how to think about allocating our time between research and non-research stuff.&lt;/p&gt;
+&lt;p&gt;The reason for this is that our work is part of our lives. Why do I do science for a living? For me, and for most of us I suspect, there are two reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Science can be thrilling, and since I was a kid I&amp;rsquo;ve wanted to make discoveries about the world, and&lt;/li&gt;
+&lt;li&gt;I need to pay the rent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I really try hard to keep those reasons in mind when I&amp;rsquo;m deciding what time to go home, when to spend a day with my kids vs. working, etc. When I do, it makes my analysis simpler: I work when a.) I need to, to pay the rent, or b.) I want to, becuase it is fun. As a practical matter, that means that I&amp;rsquo;m generally at work from when I drop my kids off at school at about 8 am until about 5 pm on weekdays. I try hard to be present for my family on weekday evenings before bedtime and most of the day on weekends. I often work for an hour or two between the kids&amp;rsquo; bedtime and mine, and I might work some more on the weekends, depending on what is going on for my family and how pressing my work deadlines are.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s a pretty typical schedule for an academic in my position, I think, so my analytical frame doesn&amp;rsquo;t get me to anywhere unusual in terms of my time allocation. It does, however, free me to feel great about the decision not to work when I could be working, because I recognize that the purpose of my work is to support my life, rather than the other way around. But sometimes I choose to work extra, either because my science is just too exciting not to, or because I feel like I really need to bust my butt in order to keep my job. Again, that&amp;rsquo;s nothing radical, but it serves as a powerful antidote to the pervasive notion in science that we could always be doing more to push our science (and our career) further.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/DrNatashaDowey&#34;&gt;Dr. Natasha Dowey&lt;/a&gt; recently asked an insightful question about how to lead a fulfilling life without allowing one&amp;rsquo;s research to &amp;lsquo;suffer&amp;rsquo;:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I think just about all of us have this question in the back of our minds a lot of the time. But this question contains a category error: research can&amp;rsquo;t suffer. It isn&amp;rsquo;t sentient. It doesn&amp;rsquo;t get sad if it doesn&amp;rsquo;t get done. People suffer, and we can certainly suffer if we don&amp;rsquo;t get enough research out to keep the job that we want, but when we think about allocating our time in terms of benefit to ourselves and the people we care about, it becomes a lot easier to decide how much our our finite time on Earth to spend at work.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;The webinar is archived &lt;a href=&#34;https://youtu.be/hRaRGmVxG5U&#34;&gt;here&lt;/a&gt;, for those who are super-interested in more of my thoughts on the subject.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carbon in the deep biosphere: forms, fates, and biogeochemical cycling</title>
+      <link>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
+      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC</title>
+      <link>https://adsteen.github.io/publication/2019_royalty_partitioning/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_royalty_partitioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polysaccharide hydrolysis in the presence of oil and dispersants: Insights into potential degradation pathways of exopolymeric substances (EPS) from oil-degrading bacteria</title>
+      <link>https://adsteen.github.io/publication/2019_ziervogel_snow/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_ziervogel_snow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical and Simulation-Based Investigation of the Relationship between Sequencing Effort, Microbial Community Richness, and Diversity in Binning Metagenome-Assembled Genomes</title>
+      <link>https://adsteen.github.io/publication/2019_royalty_steen_mags/</link>
+      <pubDate>Tue, 06 Aug 2019 00:06:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_royalty_steen_mags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High proportions of bacteria and archaea across most biomes remain uncultured</title>
+      <link>https://adsteen.github.io/publication/2019_steen_et_al_isme/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_steen_et_al_isme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina</title>
+      <link>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncultured microbial phyla suggest mechanisms for multi-thousand-year subsistence in Baltic Sea sediments</title>
+      <link>https://adsteen.github.io/publication/2019_bird_et_al_baltic/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_bird_et_al_baltic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
+      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Electrochemically Activated Persulfate and Its Application to Ciprofloxacin Abatement</title>
+      <link>https://adsteen.github.io/publication/2018_matzek_persulfate/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2018_matzek_persulfate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential Activities of Freshwater Exo- and Endo-Acting Extracellular Peptidases in East Tennessee and the Pocono Mountains</title>
+      <link>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2018_mullen_et_al_mxshs/</guid>
+      <description>&lt;p&gt;This paper is a special one: it is our first paper out of the Malcolm X Shabazz Aquatic Geochemistry Team project. More than 60 studens from Malcolm X Shabazz High School contributed to the data collection effort, and all of them are named individually in the paper. Kim Boerrigter, who acted as a student leader of the team, earned individual authorship. Since publication, more than 40 additional students have taken part in the Team, and we continue to produce research and work towards a second publication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sequential bioavailability of sedimentary organic matter to heterotrophic bacteria</title>
+      <link>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2017_mahmoudi_isocarb/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evidence for the Priming Effect in a Planktonic Estuarine Microbial Community</title>
+      <link>https://adsteen.github.io/publication/2016_steen_priming/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2016_steen_priming/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Substrate specificity of aquatic extracellular peptidases assessed by competitive inhibition assays using synthetic substrates</title>
+      <link>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</link>
+      <pubDate>Sat, 20 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2015_steen_et_al_subs_specificity/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New aminopeptidase from “microbial dark matter” archaeon</title>
+      <link>https://adsteen.github.io/publication/2015_michalska_et_al/</link>
+      <pubDate>Wed, 10 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2015_michalska_et_al/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Extracellular enzymes in terrestrial, freshwater, and marine environments: Perspectives on system variability and common research needs</title>
+      <link>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2013_arnosti_et_al_review/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Verrucomicrobia Are Candidates for Polysaccharide-Degrading Bacterioplankton in an Arctic Fjord of Svalbard</title>
+      <link>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2014_cardman_et_al_verrucomicrobia/</guid>
+      <description>&lt;p&gt;Cool thing about this paper: Lead author Zena Cardman was an undergraduate student in the &lt;a href=&#34;https://marine.unc.edu/research/traditional-disciplines/biological-oceanography/teske-lab-research/&#34;&gt;Teske Lab&lt;/a&gt; at UNC when she did this work. Besides being an all-around awesome person, she is now a &lt;a href=&#34;https://www.nasa.gov/astronauts/biographies/zena-cardman&#34;&gt;NASA Astronaut Candidate&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Meta-Analysis of Quantification Methods Shows that Archaea and Bacteria Have Similar Abundances in the Subseafloor</title>
+      <link>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</link>
+      <pubDate>Fri, 04 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2013_lloyd_et_al_metaanalysis/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phylogenetically Novel Uncultured Microbial Cells Dominate Earth Microbiomes</title>
+      <link>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2018_lloyd_et_al_uncultured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadmap for naming uncultivated Archaea and Bacteria</title>
+      <link>https://adsteen.github.io/publication/2020_murray_roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2020_murray_roadmap/</guid>
+      <description>&lt;p&gt;I was privileged to play small part in writing this Consensus Statement, in which a large group of people who study uncultured microbes argue that we need a way to assign formal names to uncultured microbes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
