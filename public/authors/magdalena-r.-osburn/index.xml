@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magdalena R. Osburn | Steen Lab</title>
-    <link>https://adsteen.github.io/authors/magdalena-r.-osburn/</link>
-      <atom:link href="https://adsteen.github.io/authors/magdalena-r.-osburn/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/magdalena-r.-osburn/</link>
+      <atom:link href="/authors/magdalena-r.-osburn/index.xml" rel="self" type="application/rss+xml" />
     <description>Magdalena R. Osburn</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Magdalena R. Osburn</title>
-      <link>https://adsteen.github.io/authors/magdalena-r.-osburn/</link>
+      <link>/authors/magdalena-r.-osburn/</link>
     </image>
     
     <item>
       <title>Carbon in the deep biosphere: forms, fates, and biogeochemical cycling</title>
-      <link>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</link>
+      <link>/publication/2019_lang_et_al_chapter/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_lang_et_al_chapter/</guid>
+      <guid>/publication/2019_lang_et_al_chapter/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Steen Lab</title>
-    <link>https://adsteen.github.io/project/</link>
-      <atom:link href="https://adsteen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Projects</title>
-      <link>https://adsteen.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Bioinformatic meta-analyses</title>
-      <link>https://adsteen.github.io/project/meta-analyses/</link>
+      <link>/project/meta-analyses/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/meta-analyses/</guid>
+      <guid>/project/meta-analyses/</guid>
       <description>&lt;p&gt;DNA and RNA sequence data are being deposited in public repositories at an astonishing rate. The quantity of sequence data in GenBank, for instance, has doubled approximately every 18 months since 1982! This is an extraordinarily rich source of information about microbial life. I argue that it is impossible to use all of the information in a sequence data set in a single study, and further that we can learn a lot by combining data from disparate studies that were not initially intended to be compared.&lt;/p&gt;
 &lt;p&gt;One line of research in the Steen Lab has been to see what we can learn from public data sets. We have helped to quantify the number of uncultured cells on Earth, the degree to which microbial traits are conserved as a function of taxonomic rank, and the relationship between DNA sequencing effort and the quantity of metagenome-assembled genomes (MAGs) that can be obtained.&lt;/p&gt;
 </description>
@@ -24,18 +24,18 @@
     
     <item>
       <title>Extracellular enzymes</title>
-      <link>https://adsteen.github.io/project/extracellular_enzymes/</link>
+      <link>/project/extracellular_enzymes/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/extracellular_enzymes/</guid>
+      <guid>/project/extracellular_enzymes/</guid>
       <description>&lt;p&gt;Most of the molecules that organisms synthesize are polymeric, and so most of the bioavailable organic matter in the environment consists of high-molecular weight molecules. In order to access these molecules, heterotrophic microbes must first break them down into smaller units (although there are some intersting, &lt;a href=&#34;https://www.nature.com/articles/ismej201726&#34;&gt;newly-discovered exceptions&lt;/a&gt; to this rule.) Thus, the ability of microbial communities to express extracellular enzymes, and the dynamics of those enzymes once produced, serve as a proximate control on the remineralization of organic matter, and thus the Earth&amp;rsquo;s carbon cycle. We study the nature, dynamics, and controls on microbial extracellular enzymes in aquatic environments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Outreach</title>
-      <link>https://adsteen.github.io/project/outreach/</link>
+      <link>/project/outreach/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/outreach/</guid>
+      <guid>/project/outreach/</guid>
       <description>&lt;p&gt;Since 2013, the Steen Lab has partnered with students and faculty at &lt;a href=&#34;https://www.nps.k12.nj.us/mxs/&#34;&gt;Malcolm X Shabazz High School&lt;/a&gt; in Newark, NJ to perform authentic research on the activities and nature of extracellular peptidases present in small freshwater bodies and estuaries. High school students and faculty are true participants in the research, helping to design experiments, collect and process data, and present the research. More than 100 students have participated in this program. Students have participated in writing one &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fmicb.2018.00368/full?report=reader&#34;&gt;paper&lt;/a&gt; about the research, and have presented at four conferences, including twice at the fall meeting of the American Geophysical Union.&lt;/p&gt;
 &lt;p&gt;Going forward, we are in the process of expanding this program to work with both rural and urban high schools in East Tennessee.&lt;/p&gt;
 </description>
@@ -43,9 +43,9 @@
     
     <item>
       <title>Thawing permafrost</title>
-      <link>https://adsteen.github.io/project/permafrost/</link>
+      <link>/project/permafrost/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/project/permafrost/</guid>
+      <guid>/project/permafrost/</guid>
       <description>&lt;p&gt;Permafrost is one Earth&amp;rsquo;s largest reservoirs of soil organic carbon, and across the Arctic, it is thawing rapidly. As it thaws, microbial processes convert soil organic matter to greenhouse gasses such as CO&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;, CH&lt;!-- raw HTML omitted --&gt;4&lt;!-- raw HTML omitted --&gt;, and possibly N&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;O. The enivronmental impact of permafrost thawing will depend greatly on the microbial metabolic processes that drive those transformations, and the relative quantities of greenhouse gasses produced vs organic preserved or exported. In this project, which has been recommended for funding by the Department of Energy, we will use a broad spectrum of techniques, including metagenomics, proteomics, metabolomics, thawing experiments, and geochemical modeling to understand the microbial and biogeochemical dynamics of thawing permafrost in Svalbard. The project team is lead by &lt;a href=&#34;http://lloydlab.utk.edu/&#34;&gt;Karen Lloyd&lt;/a&gt; of the University of Tennessee Department of Microbiology, and includes Drew Steen and &lt;a href=&#34;https://scholar.google.com/citations?user=dSpoZSkAAAAJ&#34;&gt;Tatiana Vishnivetskaya&lt;/a&gt;, also of UT-K, &lt;a href=&#34;https://onstott.princeton.edu/faculty-staff/tullis-onstott&#34;&gt;Tullis Onstott&lt;/a&gt; of Princeton University, &lt;a href=&#34;https://www.ornl.gov/staff-profile/robert-l-hettich&#34;&gt;Robert Hettich&lt;/a&gt; of Oak Ridge National Laboratory, and &lt;a href=&#34;https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=8381&#34;&gt;John Cliff&lt;/a&gt; of Pacific Northwest National Lab. Additionally, &lt;a href=&#34;https://www.qmul.ac.uk/geog/staff/bradleyj.html&#34;&gt;James Bradley&lt;/a&gt; of Queen Mary University, London, &lt;a href=&#34;https://www.awi.de/en/about-us/organisation/staff/julia-boike.html&#34;&gt;Julia Boike&lt;/a&gt; of the Alfred Wegener Institute, Potsam, and &lt;a href=&#34;http://cryosol.ru/en/abramov-andrey.html&#34;&gt;Andrey Abramov&lt;/a&gt; of the Russian Academy of Sciences, Puschchino are our international collaborators.&lt;/p&gt;
 &lt;p&gt;The Steen Lab&amp;rsquo;s responsibility in this project is to study organic matter-microbe interactions in thawing permafrost using two techniques. First, we will perform assays of extracellular enzymes in experimentally-thawed permafrost soil, which will then be compared to genes encoding extracellular enzymes in the soil communities. Simultaneously, we will create a microbially-informed geochemical model to describe biogeochemical processes in thawing sediments.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;We are currently recruiting a postdoctoral associate to work on this project.&lt;/strong&gt; The candidate should be an experienced biogeochemical modeler interested in learning more about microbial ecology and organic geochemistry. Please contact &lt;a href=&#34;mailto:asteen1@utk.edu&#34;&gt;Dr. Drew Steen&lt;/a&gt; for more information.&lt;/p&gt;

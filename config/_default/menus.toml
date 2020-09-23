@@ -37,5 +37,5 @@
 
 [[main]]
     name = "Lab resources"
-    url = "lab-resources/marie"
+    url = "lab-resources"
     weight = 80
