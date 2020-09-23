@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Steen Lab</title>
-    <link>/slides/</link>
-      <atom:link href="/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/slides/</link>
+      <atom:link href="https://adsteen.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://adsteen.github.io/slides/example/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://adsteen.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;extracellular-enzymes-in-marine-sediments-a-control-on-organic-carbon-preservation&#34;&gt;Extracellular enzymes in marine sediments: A control on organic carbon preservation&lt;/h1&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
