@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Steen Lab</title>
-    <link>https://adsteen.github.io/tags/</link>
-      <atom:link href="https://adsteen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Tags</title>
-      <link>https://adsteen.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
       <title>Source Themes</title>
-      <link>https://adsteen.github.io/tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/tags/source-themes/</guid>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bioinformatics</title>
-      <link>https://adsteen.github.io/tags/bioinformatics/</link>
+      <link>/tags/bioinformatics/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/tags/bioinformatics/</guid>
+      <guid>/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geochemistry</title>
-      <link>https://adsteen.github.io/tags/geochemistry/</link>
+      <link>/tags/geochemistry/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/tags/geochemistry/</guid>
+      <guid>/tags/geochemistry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outreach</title>
-      <link>https://adsteen.github.io/tags/outreach/</link>
+      <link>/tags/outreach/</link>
       <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/tags/outreach/</guid>
+      <guid>/tags/outreach/</guid>
       <description></description>
     </item>
     

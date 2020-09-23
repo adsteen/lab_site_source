@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>https://adsteen.github.io/authors/lquigley/</link>
-      <atom:link href="https://adsteen.github.io/authors/lquigley/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/lquigley/</link>
+      <atom:link href="/authors/lquigley/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <url>/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>https://adsteen.github.io/authors/lquigley/</link>
+      <link>/authors/lquigley/</link>
     </image>
     
     <item>
       <title>Characterization of the Interactive Effects of Labile and Recalcitrant Organic Matter on Microbial Growth and Metabolism</title>
-      <link>https://adsteen.github.io/publication/2019_quigley_interactivity/</link>
+      <link>/publication/2019_quigley_interactivity/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2019_quigley_interactivity/</guid>
+      <guid>/publication/2019_quigley_interactivity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evidence for the Priming Effect in a Planktonic Estuarine Microbial Community</title>
-      <link>https://adsteen.github.io/publication/2016_steen_priming/</link>
+      <link>/publication/2016_steen_priming/</link>
       <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://adsteen.github.io/publication/2016_steen_priming/</guid>
+      <guid>/publication/2016_steen_priming/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;#&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
