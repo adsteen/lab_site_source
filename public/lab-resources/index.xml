@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab resources | Steen Lab</title>
-    <link>/lab-resources/</link>
-      <atom:link href="/lab-resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/lab-resources/</link>
+      <atom:link href="https://adsteen.github.io/lab-resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab resources</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Lab resources</title>
-      <link>/lab-resources/</link>
+      <link>https://adsteen.github.io/lab-resources/</link>
     </image>
     
     <item>
       <title>Lab expectations</title>
-      <link>/lab-resources/expectations/</link>
+      <link>https://adsteen.github.io/lab-resources/expectations/</link>
       <pubDate>Mon, 21 Sep 2020 12:29:43 -0400</pubDate>
-      <guid>/lab-resources/expectations/</guid>
+      <guid>https://adsteen.github.io/lab-resources/expectations/</guid>
       <description>&lt;p&gt;I believe that four principles are essential to success in science, and I encourage all students to practice these principles when they&amp;rsquo;re in the Steen Lab. I have also established some specific rules and expectations that are in line with those principles.&lt;/p&gt;
 &lt;h1 id=&#34;principles&#34;&gt;Principles&lt;/h1&gt;
 &lt;h2 id=&#34;be-creative&#34;&gt;Be creative&lt;/h2&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>marie quickstart</title>
-      <link>/lab-resources/marie/</link>
+      <link>https://adsteen.github.io/lab-resources/marie/</link>
       <pubDate>Sat, 06 Jun 2020 12:29:43 -0400</pubDate>
-      <guid>/lab-resources/marie/</guid>
+      <guid>https://adsteen.github.io/lab-resources/marie/</guid>
       <description>&lt;p&gt;The SteenLab server is named marie for Marie Tharp, a pioneering oceanographer who used sounding data collected by others to create the first high-quality bathymetric map of the world&amp;rsquo;s oceans. In that spirit, we hope that you will use marie to gain a new understanding of how the planet and the microbial world work.&lt;/p&gt;
 &lt;h1 id=&#34;getting-an-account&#34;&gt;Getting an account&lt;/h1&gt;
 &lt;p&gt;To access marie, you will need the following:&lt;/p&gt;

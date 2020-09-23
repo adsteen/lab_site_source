@@ -2,159 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Steen Lab</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/post/</link>
+      <atom:link href="https://adsteen.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://adsteen.github.io/post/</link>
     </image>
     
     <item>
-      <title>Linear models with a sparse predictor</title>
-      <link>/post/drew-learns-statistics-linear-models-with-a-sparse-predictor/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/drew-learns-statistics-linear-models-with-a-sparse-predictor/</guid>
-      <description>&lt;p&gt;{{ if and (not .Params.disable_mathjax) (or (in (string .Content) &amp;ldquo;\&amp;quot;) (in (string .Content) &amp;ldquo;$&amp;rdquo;)) }}&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;{{ end }}&lt;/p&gt;
-&lt;h1 id=&#34;i-want-to-buy-a-sweet-ridesup1sup&#34;&gt;I want to buy a sweet ride&lt;!-- raw HTML omitted --&gt;[1]&lt;!-- raw HTML omitted --&gt;&lt;/h1&gt;
-&lt;p&gt;I spent some time over the weekend thinking about statistical models of
-car prices, because I’m a Cool Guy and I do this kind of thing
-for fun, and also to procrastinate from real work.&lt;/p&gt;
-&lt;p&gt;Specifically, I’m interested in how to predict the sales price of
-unusual/classic cars on a well-known car auction site, which I won’t
-name because doing this sort of thing may not 100% fit within their
-terms of service. Obviously, the mileage of a car is a strong
-determinant of its sales price: lower mileage cars are more expensive
-than high-mileage cars. We could describe this with a simple linear
-model([2]):&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;price = *β*&amp;lt;sub&amp;gt;0&amp;lt;/sub&amp;gt; + *β*&amp;lt;sub&amp;gt;1&amp;lt;/sub&amp;gt; ⋅ mileage + *ϵ*
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;But the cars I’m interested in have pretty weird histories: they often
-have had engines swapped, or odometers rolled over, or some other funny
-business such that their actual mileage is not known. Buyers hate this.
-&lt;strong&gt;I’d really like to know how big of a discount buyers demand for not
-knowing a car’s mileage.&lt;/strong&gt; The problem is that formally speaking, we
-can’t write a single model for this, because mileage doesn’t have a
-value when mileage is unknown. So I’m looking for a way to encode the
-model&lt;/p&gt;
-&lt;p&gt;$$
-\textrm{price} = \beta_0 + \left\{
-\begin{array}{ll}
-\beta_1 \cdot \textrm{mileage} &amp;amp; : \textrm{mileage known}\\&lt;br&gt;
-\beta_{1&amp;rsquo;} \cdot \textrm{mileage} &amp;amp; : \textrm{mileage unknown}&lt;br&gt;
-\end{array} \right\} + \epsilon
-$$&lt;/p&gt;
-&lt;p&gt;[@Jeff_Jetton](&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://twitter.com/Jeff_Jetton&#34;&gt;https://twitter.com/Jeff_Jetton&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;),
-[@pbulsink](&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://twitter.com/pbulsink&#34;&gt;https://twitter.com/pbulsink&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;),
-and
-[@Hao_and_Y](&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://twitter.com/Hao_and_Y&#34;&gt;https://twitter.com/Hao_and_Y&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;)
-kindly &lt;a href=&#34;https://twitter.com/drdrewsteen/status/1219267790563151884&#34;&gt;led
-me&lt;/a&gt; via
-Twitter to a solution that seems mathematically correct and is easy to
-code, which I want to archive here.&lt;/p&gt;
-&lt;p&gt;They converged on the idea of setting mileage to 0 whenever it is
-missing, and then creating a second variable for ‘mileage missing’, with
-its own coefficient, so the linear model would look like this:&lt;/p&gt;
-&lt;p&gt;price = &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;0&lt;!-- raw HTML omitted --&gt; + &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; ⋅ mileage + &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;1′&lt;!-- raw HTML omitted --&gt; ⋅ mileage unknown + &lt;em&gt;ϵ&lt;/em&gt;
-Cool, I can write an R formula that encodes that model!&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;mod &amp;lt;- lm(mileage + mileage.unknown, data = my_df)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;In this model, &lt;em&gt;b&lt;strong&gt;e&lt;/strong&gt;t**a&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;0&lt;!-- raw HTML omitted --&gt; represents the ‘base’ price of a
-car (before mileage, and any other potential variables I might want to
-include in my model, are considered). &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; is the rate at
-which the car loses value per mile, and &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;1′&lt;!-- raw HTML omitted --&gt; is the discount
-buyers demand for a car of unknown mileage.&lt;/p&gt;
-&lt;h2 id=&#34;does-it-work&#34;&gt;Does it work?&lt;/h2&gt;
-&lt;p&gt;Just to be sure, I’ll create some simulated data and see whether I can
-recover reasonable values. I’ll set &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;0&lt;!-- raw HTML omitted --&gt; to $10,000,
-&lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;1&lt;!-- raw HTML omitted --&gt; to -$0.005, and &lt;em&gt;β&lt;/em&gt;&lt;!-- raw HTML omitted --&gt;1′&lt;!-- raw HTML omitted --&gt; to -$2,500.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;library(tidyverse)
-
-set.seed(944)
-mileage &amp;lt;- runif(n = 100, min = 0, max = 1e6) # Random distribution of mileages
-mileage.penalty &amp;lt;- -0.005 
-mileage.known &amp;lt;- sample(c(TRUE, FALSE), size = 100, replace = TRUE) # Random cars have &amp;quot;unknown&amp;quot; mileage
-mileage[!mileage.known] &amp;lt;- 0 # Those with unknown mileage are set to 0
-base.price &amp;lt;- 1e4
-TMU.penalty &amp;lt;- -5e3
-
-# Calculate the price according to the formula I defined above &amp;amp; add noice
-price &amp;lt;- base.price + mileage.penalty*mileage*mileage.known + TMU.penalty*(!mileage.known) + rnorm(length(mileage), mean = 0, sd = 200)
-
-# Put the relevant data in a data frame
-df &amp;lt;- data.frame(price, mileage, mileage.known)
-glimpse(df)
-
-## Observations: 100
-## Variables: 3
-## $ price         &amp;lt;dbl&amp;gt; 5249.511, 8888.228, 9772.401, 8241.758, 4910.818, …
-## $ mileage       &amp;lt;dbl&amp;gt; 0.00, 214497.43, 75515.27, 402734.43, 0.00, 0.00, …
-## $ mileage.known &amp;lt;lgl&amp;gt; FALSE, TRUE, TRUE, TRUE, FALSE, FALSE, TRUE, FALSE…
-
-ggplot(df, aes(x = mileage, y = price, colour = mileage.known)) + 
-  geom_point() + 
-  expand_limits(ymin = 0) + 
-  theme_minimal()
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;944_blog_post_files/figure-markdown_strict/unnamed-chunk-2-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;mod &amp;lt;- lm(price ~ mileage+mileage.known)
-summary(mod)
-
-## 
-## Call:
-## lm(formula = price ~ mileage + mileage.known)
-## 
-## Residuals:
-##     Min      1Q  Median      3Q     Max 
-## -459.18 -121.87   -5.52  134.82  502.89 
-## 
-## Coefficients:
-##                     Estimate Std. Error t value Pr(&amp;gt;|t|)    
-## (Intercept)        4.975e+03  2.826e+01  176.08   &amp;lt;2e-16 ***
-## mileage           -5.151e-03  9.815e-05  -52.49   &amp;lt;2e-16 ***
-## mileage.knownTRUE  5.124e+03  5.640e+01   90.85   &amp;lt;2e-16 ***
-## ---
-## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
-## 
-## Residual standard error: 191.6 on 97 degrees of freedom
-## Multiple R-squared:  0.9889, Adjusted R-squared:  0.9887 
-## F-statistic:  4337 on 2 and 97 DF,  p-value: &amp;lt; 2.2e-16
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Note that the results aren’t quite what I expected: &lt;code&gt;(Intercept)&lt;/code&gt;,
-implying the base case, is $5.000 instead of $10,000. That’s because
-&lt;code&gt;lm()&lt;/code&gt; is taking the ‘base case’ as unknown mileage, and then adding
-extra cost for when mileage is known. Thus, the price of a pristine car
-is really the estimates of &lt;code&gt;(Intercept)&lt;/code&gt; + &lt;code&gt;mileage.knownTRUE&lt;/code&gt;.&lt;/p&gt;
-&lt;h1 id=&#34;maybe-this-isnt-totally-dumb&#34;&gt;Maybe this isn’t totally dumb&lt;/h1&gt;
-&lt;p&gt;So this was a, uh, “fun” way to spend a Sunday evening, but was it a
-total waste of time from a professional standpoint? I think maybe not? I
-can easily imagine environmental data sets in which you’d really like to
-know a response to a continuous variable - say, phytoplankton blooms as
-a function of nutrients - where sometimes you have the data you want
-recorded, and other times you have some qualitative data, like “low” or
-“eutrophied”. This approach is likely to be useful in such a situation.&lt;/p&gt;
-&lt;p&gt;In fact, I am reasonable certain that there is a whole literature about
-this problem, but that is &lt;em&gt;well&lt;/em&gt; beyond the scope of a fun weekend
-problem.&lt;/p&gt;
-&lt;p&gt;[1] This is the first of some number of posts in which I attempt to
-teach myself statistics in public.&lt;/p&gt;
-&lt;p&gt;[2] I would greatly appreciate it if someone could explain to me why
-statisticians looked at the normal equation for a line,
-&lt;em&gt;y&lt;/em&gt; = &lt;em&gt;m**x&lt;/em&gt; + &lt;em&gt;b&lt;/em&gt;, and said, “Yeah, we’re going to go in another
-direction on that.”&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>On the fallacy of the work-life balance</title>
-      <link>/post/on-the-fallacy-of-the-work-life-balance/</link>
+      <link>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/post/on-the-fallacy-of-the-work-life-balance/</guid>
+      <guid>https://adsteen.github.io/post/on-the-fallacy-of-the-work-life-balance/</guid>
       <description>&lt;p&gt;A little while ago I was asked by &lt;a href=&#34;https://www.darkenergybiosphere.org/&#34;&gt;C-DEBI&lt;/a&gt; to give a webinar* for their &lt;a href=&#34;https://www.darkenergybiosphere.org/outputs-resources/professional-development-webinar-series/&#34;&gt;Professional Development Series&lt;/a&gt; on work-life balance. Now, I can&amp;rsquo;t claim to have any particular insight into that subject, but while I was preparing for it, I did stumble on an idea that has stuck with me: **the idea of &amp;lsquo;work-life balance&amp;rsquo; is totally the wrong frame** for how to think about allocating our time between research and non-research stuff.&lt;/p&gt;
 &lt;p&gt;The reason for this is that our work is part of our lives. Why do I do science for a living? For me, and for most of us I suspect, there are two reasons:&lt;/p&gt;
 &lt;ul&gt;
@@ -170,15 +32,6 @@ direction on that.”&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The webinar is archived &lt;a href=&#34;https://youtu.be/hRaRGmVxG5U&#34;&gt;here&lt;/a&gt;, for those who are super-interested in more of my thoughts on the subject.&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Thoughts on Cultuturability Controversy</title>
-      <link>/post/thoughts-on-culturability-controversy/</link>
-      <pubDate>Wed, 02 Oct 2019 16:55:35 -0400</pubDate>
-      <guid>/post/thoughts-on-culturability-controversy/</guid>
-      <description>&lt;p&gt;I was recently involved in a back-and-forth in the literature with &lt;a href=&#34;https://www.ess.uci.edu/group/amartiny/home&#34;&gt;Adam Martiny&lt;/a&gt; of UC-Irvine on the subject of what fraction of cells on Earth have been cultured. Adam wrote a &lt;a href=&#34;https://www.nature.com/articles/s41396-019-0410-3&#34;&gt;paper&lt;/a&gt; in ISME J arguing that something like half of bacteria in some common environments had a species-level relative that&lt;/p&gt;
 </description>
     </item>
     

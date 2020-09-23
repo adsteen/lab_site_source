@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steen Lab</title>
-    <link>/authors/troyalty/</link>
-      <atom:link href="/authors/troyalty/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/troyalty/</link>
+      <atom:link href="https://adsteen.github.io/authors/troyalty/index.xml" rel="self" type="application/rss+xml" />
     <description>Steen Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Steen Lab</title>
-      <link>/authors/troyalty/</link>
+      <link>https://adsteen.github.io/authors/troyalty/</link>
     </image>
     
     <item>
       <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
-      <link>/publication/2019_senter_alignment/</link>
+      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
       <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_senter_alignment/</guid>
+      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetics and identities of extracellular peptidases in subsurface sediments of the White Oak River Estuary, NC</title>
-      <link>/publication/2019_royalty_partitioning/</link>
+      <link>https://adsteen.github.io/publication/2019_royalty_partitioning/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_royalty_partitioning/</guid>
+      <guid>https://adsteen.github.io/publication/2019_royalty_partitioning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theoretical and Simulation-Based Investigation of the Relationship between Sequencing Effort, Microbial Community Richness, and Diversity in Binning Metagenome-Assembled Genomes</title>
-      <link>/publication/2019_royalty_steen_mags/</link>
+      <link>https://adsteen.github.io/publication/2019_royalty_steen_mags/</link>
       <pubDate>Tue, 06 Aug 2019 00:06:00 +0000</pubDate>
-      <guid>/publication/2019_royalty_steen_mags/</guid>
+      <guid>https://adsteen.github.io/publication/2019_royalty_steen_mags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kinetics and Identities of Extracellular Peptidases in Subsurface Sediments of the White Oak River Estuary, North Carolina</title>
-      <link>/publication/2019_steen_et_al_wor_enz/</link>
+      <link>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019_steen_et_al_wor_enz/</guid>
+      <guid>https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/</guid>
       <description></description>
     </item>
     
