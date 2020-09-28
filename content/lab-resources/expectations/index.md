@@ -50,7 +50,7 @@ I believe that four principles are essential to success in science, and I encour
 
 * **Help your labmates**. Science is a team sport, and you want to help your team succeed.
 * **Practice anti-bigotry**. Racism, sexism, and other forms of bigotry are common in science, just as they are in the broader society. To remain neutral is to perpetuate that bigotry.
-* (I feel like there's a third point to add here but I can't think of what it is.)
+* **Create an approachable environment**
 
 ## Take responsibility for your career
 
