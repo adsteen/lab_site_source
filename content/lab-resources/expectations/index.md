@@ -106,6 +106,10 @@ I believe that four principles are essential to success in science, and I encour
 
 # Taking charge of your career
 
-* [How to write a scientific paper](https://www.nature.com/articles/d41586-018-02404-4)
-* [Scientific commnication](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)
+* Scientific writing
+  * [How to write a scientific paper](https://www.nature.com/articles/d41586-018-02404-4)
+  * [Scientific communication](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)
+* Building an academic website
+  * [Building webpages with GitHub Pages and the Academic theme for Hugo]()
+  * [Using git submodules with GitHub](https://www.adamormsby.com/posts/how-to-set-up-a-hugo-site-on-github-pages-with-submodules/)
 
