@@ -87,7 +87,7 @@ I believe that four principles are essential to success in science, and I encour
 
 ## Being creative
 
-* [How to write a scientific paper](https://www.nature.com/articles/d41586-018-02404-4)
+
 * More TK
 
 ## Taking care of yourself
@@ -106,5 +106,6 @@ I believe that four principles are essential to success in science, and I encour
 
 # Taking charge of your career
 
-* More TK
+* [How to write a scientific paper](https://www.nature.com/articles/d41586-018-02404-4)
+* [Scientific commnication](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/contents/)
 
