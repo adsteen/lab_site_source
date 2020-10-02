@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lab resources | Steen Lab</title>
-    <link>/lab-resources/</link>
-      <atom:link href="/lab-resources/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/lab-resources/</link>
+      <atom:link href="https://adsteen.github.io/lab-resources/index.xml" rel="self" type="application/rss+xml" />
     <description>Lab resources</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Lab resources</title>
-      <link>/lab-resources/</link>
+      <link>https://adsteen.github.io/lab-resources/</link>
     </image>
     
     <item>
       <title>Lab expectations</title>
-      <link>/lab-resources/expectations/</link>
+      <link>https://adsteen.github.io/lab-resources/expectations/</link>
       <pubDate>Mon, 21 Sep 2020 12:29:43 -0400</pubDate>
-      <guid>/lab-resources/expectations/</guid>
+      <guid>https://adsteen.github.io/lab-resources/expectations/</guid>
       <description>&lt;p&gt;I believe that four principles are essential to success in science, and I encourage all students to practice these principles when they&amp;rsquo;re in the Steen Lab. I have also established some specific rules and expectations that are in line with those principles.&lt;/p&gt;
 &lt;h1 id=&#34;principles&#34;&gt;Principles&lt;/h1&gt;
 &lt;h2 id=&#34;be-creative&#34;&gt;Be creative&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Read the literature&lt;/strong&gt;: papers that you&amp;rsquo;re assigned to read, and papers that you find on your own.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Discuss ideas&lt;/strong&gt; with your lab mates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Discuss ideas&lt;/strong&gt; whenever possible: with your lab mates, with Drew, with other students and faculty inside and outside of our department.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Write&lt;/strong&gt;. A scientist is, at the end of the day, a writer. Writing is important at all stages of a project, from generating ideas and planning experiments to communicating final results.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;take-care-of-yourself&#34;&gt;Take care of yourself&lt;/h2&gt;
@@ -34,23 +34,23 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;take-care-of-your-lab-mates&#34;&gt;Take care of your lab-mates&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Help your labmates&lt;/strong&gt;. Science is a team sport, and you want to help your team succeed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Help your labmates&lt;/strong&gt;. Science is a team sport, and when your team succeeds, you succeed.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Practice anti-bigotry&lt;/strong&gt;. Racism, sexism, and other forms of bigotry are common in science, just as they are in the broader society. To remain neutral is to perpetuate that bigotry.&lt;/li&gt;
-&lt;li&gt;(I feel like there&amp;rsquo;s a third point to add here but I can&amp;rsquo;t think of what it is.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create an approachable environment&lt;/strong&gt;. Carry yourself in such a way that your lab-mates will be eager to talk with you about science and anything else important.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;take-responsibility-for-your-career&#34;&gt;Take responsibility for your career&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Take charge of reading papers&lt;/strong&gt;. Find the papers that are important for your project and read them on your own.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Take charge of writing papers&lt;/strong&gt;. The way to get papers published is to start writing yourself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Take charge of the literature&lt;/strong&gt;. Find the papers that are important for your project and read them on your own.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Take charge of writing papers&lt;/strong&gt;. The way to get papers published is to write them.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Advocate for yourself&lt;/strong&gt; within the lab, with Drew, and in the broader scientific community.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Put in the time&lt;/strong&gt; in lab and in front of your computer. We don&amp;rsquo;t punch a clock in science, but we also don&amp;rsquo;t finish projects without putting in the hours.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Put in the time&lt;/strong&gt; in lab and in front of your computer. We don&amp;rsquo;t punch a clock in this lab, but we also don&amp;rsquo;t finish projects without putting in the hours.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;rules-and-expectations&#34;&gt;Rules and Expectations&lt;/h1&gt;
 &lt;h2 id=&#34;safety&#34;&gt;Safety&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Take all relevant safety training. At minimum all lab members should complete the general lab safety course or lab safety for undergraduate students, as appropriate.&lt;/li&gt;
 &lt;li&gt;Review the lab safety manual.&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;Be pro-active about safety issues.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-practice-of-science&#34;&gt;The practice of science&lt;/h2&gt;
 &lt;ul&gt;
@@ -62,58 +62,45 @@
 &lt;ul&gt;
 &lt;li&gt;We don&amp;rsquo;t punch a clock in the lab. However, lab members are expected to be available:
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Graduate students and more senior personnel&lt;/em&gt;: generally during working hours (9-5, more or less).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Undergraduates&lt;/em&gt;: at least about 10 hours a week, on a schedule agreed with Drew.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Graduate students and more senior personnel&lt;/em&gt;: generally during working hours (9-5 Monday - Friday, more or less).&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Undergraduates&lt;/em&gt;: about 10 hours a week at minimum, on a schedule agreed with Drew.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Lab meetings&lt;/li&gt;
-&lt;li&gt;One-on-one meetings&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Ad hoc&lt;/em&gt; meetings&lt;/li&gt;
+&lt;li&gt;Lab meetings: We will hold weekly, scheduled lab meetings. All lab members are expected to attend, unless a classtime conflict prevents this.&lt;/li&gt;
+&lt;li&gt;One-on-one meetings: Each student will meet regularly with Drew. For most students, this meeting will happen weekly, although it may be more or less often depending on a student&amp;rsquo;s specific needs.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ad hoc&lt;/em&gt; meetings: Derw has an open-door policy, including when working from home. Please be quick to &amp;ldquo;stop by&amp;rdquo; virtually or in person with questions or exciting observations.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;resources&#34;&gt;Resources&lt;/h3&gt;
+&lt;h1 id=&#34;resources&#34;&gt;Resources&lt;/h1&gt;
+&lt;h2 id=&#34;being-creative&#34;&gt;Being creative&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;(Some links on scientific writing and creativity to come)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-018-02404-4&#34;&gt;How to write a scientific paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;More TK&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;take-care-of-yourself-1&#34;&gt;Take care of yourself&lt;/h2&gt;
-&lt;p&gt;You can&amp;rsquo;t be creative when you&amp;rsquo;re miserable.&lt;/p&gt;
+&lt;h2 id=&#34;taking-care-of-yourself&#34;&gt;Taking care of yourself&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Get enough sleep.
-&lt;ul&gt;
-&lt;li&gt;Even relatively moderate sleep loss has similar cognitive effects to being &lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00167.x&#34;&gt;too drunk to drive&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;UT-K &lt;a href=&#34;https://titleix.utk.edu/&#34;&gt;Title IX Office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UT-K &lt;a href=&#34;https://ehs.utk.edu&#34;&gt;Environmental Health and Safety&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;UT-K &lt;a href=&#34;https://counselingcenter.utk.edu/mental-health-clinic/&#34;&gt;Mental Health clinic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Steen Lab Safety Manual&lt;/a&gt; (link TK)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Do what you need to take care of your body, mind and soul.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Safety comes first.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Advocate for yourself with Dr. Steen. I&amp;rsquo;ll always try to&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;resources-1&#34;&gt;Resources&lt;/h3&gt;
+&lt;h2 id=&#34;taking-care-of-others&#34;&gt;Taking care of others&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The lab safety manual is &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Safety training is available &lt;a href=&#34;&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sph.umn.edu/site/docs/hewg/microaggressions.pdf&#34;&gt;Examples of Racial Microaggressions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ncte.org/blog/2017/08/there-is-no-apolitical-classroom-resources-for-teaching-in-these-times/&#34;&gt;Resources for Anti-Racist Teaching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;More TK&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;take-care-of-your-colleagues&#34;&gt;Take care of your colleagues&lt;/h1&gt;
+&lt;h1 id=&#34;taking-charge-of-your-career&#34;&gt;Taking charge of your career&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Racism, sexism, and other forms of bigotry will not be tolerated.&lt;/strong&gt; If you feel that you are experiencing discrimination or harassment, you may speak to Drew, or to the UTK &lt;a href=&#34;https://titleix.utk.edu/students/reporting-an-incident/&#34;&gt;Title IX office&lt;/a&gt;.
-&lt;ul&gt;
-&lt;li&gt;Note that almost all UTK staff, including all faculty, are &lt;a href=&#34;https://titleix.utk.edu/faculty-and-staff/mandatory-reporters/&#34;&gt;&lt;em&gt;mandatory reporters&lt;/em&gt;&lt;/a&gt; for sexual harrassment, sexual assault, dating and domestic violence, stalking, sexual exploitation and retaliation. All mandatory reporters are legally required to communicate reports of these things to the UTK Title IX office.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Help out your lab-mates when you get the chance. Science is a group activity.&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;take-responsibility-for-your-career-1&#34;&gt;Take responsibility for your career&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;Write papers&lt;/li&gt;
-&lt;li&gt;Be in lab for&lt;/li&gt;
+&lt;li&gt;More TK&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>marie quickstart</title>
-      <link>/lab-resources/marie/</link>
+      <link>https://adsteen.github.io/lab-resources/marie/</link>
       <pubDate>Sat, 06 Jun 2020 12:29:43 -0400</pubDate>
-      <guid>/lab-resources/marie/</guid>
+      <guid>https://adsteen.github.io/lab-resources/marie/</guid>
       <description>&lt;p&gt;The SteenLab server is named marie for Marie Tharp, a pioneering oceanographer who used sounding data collected by others to create the first high-quality bathymetric map of the world&amp;rsquo;s oceans. In that spirit, we hope that you will use marie to gain a new understanding of how the planet and the microbial world work.&lt;/p&gt;
 &lt;h1 id=&#34;getting-an-account&#34;&gt;Getting an account&lt;/h1&gt;
 &lt;p&gt;To access marie, you will need the following:&lt;/p&gt;

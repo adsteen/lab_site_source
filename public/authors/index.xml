@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Steen Lab</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://adsteen.github.io/authors/</link>
+      <atom:link href="https://adsteen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/lab_logo.png</url>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://adsteen.github.io/authors/</link>
     </image>
     
     <item>
       <title>Magdalena R. Osburn</title>
-      <link>/authors/magdalena-r.-osburn/</link>
+      <link>https://adsteen.github.io/authors/magdalena-r.-osburn/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/magdalena-r.-osburn/</guid>
+      <guid>https://adsteen.github.io/authors/magdalena-r.-osburn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susan Q. Lang</title>
-      <link>/authors/susan-q.-lang/</link>
+      <link>https://adsteen.github.io/authors/susan-q.-lang/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/susan-q.-lang/</guid>
+      <guid>https://adsteen.github.io/authors/susan-q.-lang/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/abarrett/</link>
+      <link>https://adsteen.github.io/authors/abarrett/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/abarrett/</guid>
+      <guid>https://adsteen.github.io/authors/abarrett/</guid>
       <description>&lt;p&gt;Abby joined the lab in 2016 and studied the distribution of peptidases in small freshwater bodies in East Tennessee, as well as in the Pocono Mountains in Pennsylvania. Abby also worked with high school students as part of the Malcolm X Shabazz High School Aquatic Geochemistry Team.&lt;/p&gt;
 &lt;p&gt;After graduating, Abby went to work as an environmental consultant with &lt;a href=&#34;https://www.westonandsampson.com/&#34;&gt;Weston and Sampson&lt;/a&gt;, and now works as a data scientist.&lt;/p&gt;
 </description>
@@ -40,108 +40,108 @@
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://adsteen.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://adsteen.github.io/authors/admin/</guid>
       <description>&lt;p&gt;Drew Steen is interested in microbe-organic matter interactions in aquatic environments.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/alonergan/</link>
+      <link>https://adsteen.github.io/authors/alonergan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/alonergan/</guid>
+      <guid>https://adsteen.github.io/authors/alonergan/</guid>
       <description>&lt;p&gt;Andrew has been in the lab since 2017, during which time he has investigated the activities of extracellular enzymes in hot springs in Panama.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/bgreen/</link>
+      <link>https://adsteen.github.io/authors/bgreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/bgreen/</guid>
+      <guid>https://adsteen.github.io/authors/bgreen/</guid>
       <description>&lt;p&gt;I enjoy looking at water contaminants and it’s interaction with rocks and life around (biogeochemistry). I also like exploring the relationship between climate cycles and biogeochemistry. In summary, biogeochemistry as it pertains to water, soil, and climate!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/ccook62/</link>
+      <link>https://adsteen.github.io/authors/ccook62/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/ccook62/</guid>
+      <guid>https://adsteen.github.io/authors/ccook62/</guid>
       <description>&lt;p&gt;Chris graduated from the Steen Lab in 2020. After working on a project related to microbial degradation of microcystin, he developed a passion for data science. He combined the two projects to produce an R package, &lt;a href=&#34;https://cran.r-project.org/web/packages/ezmmek/index.html&#34;&gt;ezmmek&lt;/a&gt; to facilitate and standardize the calculation of enzyme kinetics in environmental samples using chromogenic or fluorogenic substrates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/lmullen/</link>
+      <link>https://adsteen.github.io/authors/lmullen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/lmullen/</guid>
+      <guid>https://adsteen.github.io/authors/lmullen/</guid>
       <description>&lt;p&gt;Lauren was in the Steen lab from 2014 to 2020, during which time she worked as an undergraduate researcher, lab manager, and graduate student. After completing a master&amp;rsquo;s thesis on enzyme activities in contrasting temperate and Arctic estuarine sediments, she has taken a job at &lt;a href=&#34;https://microbe.com/&#34;&gt;Microbial Insights&lt;/a&gt;, a Knoxville consulting firm that provides a diverse range of services related to environmental microbiology, including environmental remediation, environmental forensics, microbiologically-influenced corrosion and microbial source tracking.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/lquigley/</link>
+      <link>https://adsteen.github.io/authors/lquigley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/lquigley/</guid>
+      <guid>https://adsteen.github.io/authors/lquigley/</guid>
       <description>&lt;p&gt;Lauren earned her Ph.D. in Microbiology at the University of Tennessee - Knoxville in &lt;a href=&#34;https://sites.google.com/vols.utk.edu/buchanlab/home&#34;&gt;Dr. Alison Buchan’s lab&lt;/a&gt;, with Dr. Steen as a co-advisor. Her dissertation focused on microbial degradation of plant-derived carbon in the salt marshes of the southeastern United States. Since graduating in 2018, she completed a postdoctoral appointment at the &lt;a href=&#34;https://forsyth.org&#34;&gt;Forsyth Institute&lt;/a&gt; in Boston where she studied how microbial interactions in the nasal microbiome influence Streptococcus pneumoniae and Staphylococcus aureus colonization. Lauren is currently the research scientist at &lt;a href=&#34;https://1cell-bio.com/&#34;&gt;1CellBio&lt;/a&gt; where she works to develop and adapt &amp;lsquo;omics techniques to work in droplets on a single-cell scale.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/mmiles/</link>
+      <link>https://adsteen.github.io/authors/mmiles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/mmiles/</guid>
+      <guid>https://adsteen.github.io/authors/mmiles/</guid>
       <description>&lt;p&gt;Maryn has been in the lab since 2018, during which time she has performed a bioinformatic study of the presence of genes for sulfoquinovose degradation in marine sediments, and participated in a two-week research cruise in the North Atlantic Gyre.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/pmather/</link>
+      <link>https://adsteen.github.io/authors/pmather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/pmather/</guid>
+      <guid>https://adsteen.github.io/authors/pmather/</guid>
       <description>&lt;p&gt;I graduated from the University of Tennessee, Knoxville in 2016 with a BS in Geology and Environmental Studies and from Vermont Law School with a Juris Doctor degree in 2020. I am interested in the fields of Natural Resource Management, specifically concerning water availability issues. My second passion is education and assisting post-secondary institutions to provide the best quality education and services to the students that attend them.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/rpinals/</link>
+      <link>https://adsteen.github.io/authors/rpinals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rpinals/</guid>
+      <guid>https://adsteen.github.io/authors/rpinals/</guid>
       <description>&lt;p&gt;Rebecca is an NSF Graduate Research Fellow pursuing her PhD in UC Berkeley’s Chemical and Biomolecular Engineering Department. She graduated with her BS in Chemical Engineering from Brown University in 2016. In the summer of 2015, Rebecca worked with Dr. Steen in studying bioavailability of nutrients to extracellular enzymes in deep subsurface sediments. Her current research in Markita Landry’s lab focuses on designing fluorescent carbon nanomaterial-based sensors to probe biological systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/rspaulding/</link>
+      <link>https://adsteen.github.io/authors/rspaulding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/rspaulding/</guid>
+      <guid>https://adsteen.github.io/authors/rspaulding/</guid>
       <description>&lt;p&gt;Russell Spaulding joined the lab in Fall 2019 and worked on an NSF-funded outreach project to involve high school students in research on microplastics. He now teaches 8th-grade science in Blount County, TN.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/troyalty/</link>
+      <link>https://adsteen.github.io/authors/troyalty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/troyalty/</guid>
+      <guid>https://adsteen.github.io/authors/troyalty/</guid>
       <description>&lt;p&gt;Taylor is interested in using data science approaches to better understand the distribution of microbial functions across phylogeny and space. After earning a Ph.D. in Geology from UT-Knoxville in three years, he moved to a position as a post-doc in the Steen Lab, where he is working on using neural networks for better understand genomes of uncultured microorganisms in thawing Arctic permafrost.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/zstooksbury/</link>
+      <link>https://adsteen.github.io/authors/zstooksbury/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/zstooksbury/</guid>
+      <guid>https://adsteen.github.io/authors/zstooksbury/</guid>
       <description>&lt;p&gt;Zach was been with the lab from 2017-2020, during which time he worked on several projects relating to geological controls on microbially-catalyzed carbon cycling in marine and estuarine sediments.&lt;/p&gt;
 </description>
     </item>
