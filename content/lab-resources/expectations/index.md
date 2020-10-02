@@ -36,7 +36,7 @@ I believe that four principles are essential to success in science, and I encour
 ## Be creative
 
 * **Read the literature**: papers that you're assigned to read, and papers that you find on your own.
-* **Discuss ideas** with your lab mates.
+* **Discuss ideas** whenever possible: with your lab mates, with Drew, with other students and faculty inside and outside of our department.
 * **Write**. A scientist is, at the end of the day, a writer. Writing is important at all stages of a project, from generating ideas and planning experiments to communicating final results. 
 
 ## Take care of yourself
@@ -48,16 +48,16 @@ I believe that four principles are essential to success in science, and I encour
 
 ## Take care of your lab-mates
 
-* **Help your labmates**. Science is a team sport, and you want to help your team succeed.
+* **Help your labmates**. Science is a team sport, and when your team succeeds, you succeed.
 * **Practice anti-bigotry**. Racism, sexism, and other forms of bigotry are common in science, just as they are in the broader society. To remain neutral is to perpetuate that bigotry.
-* **Create an approachable environment**
+* **Create an approachable environment**. Carry yourself in such a way that your lab-mates will be eager to talk with you about science and anything else important.
 
 ## Take responsibility for your career
 
-* **Take charge of reading papers**. Find the papers that are important for your project and read them on your own.
-* **Take charge of writing papers**. The way to get papers published is to start writing yourself.
+* **Take charge of the literature**. Find the papers that are important for your project and read them on your own.
+* **Take charge of writing papers**. The way to get papers published is to write them.
 * **Advocate for yourself** within the lab, with Drew, and in the broader scientific community. 
-* **Put in the time** in lab and in front of your computer. We don't punch a clock in science, but we also don't finish projects without putting in the hours.
+* **Put in the time** in lab and in front of your computer. We don't punch a clock in this lab, but we also don't finish projects without putting in the hours.
 
 # Rules and Expectations
 
@@ -65,7 +65,7 @@ I believe that four principles are essential to success in science, and I encour
 
 * Take all relevant safety training. At minimum all lab members should complete the general lab safety course or lab safety for undergraduate students, as appropriate.
 * Review the lab safety manual.
-* 
+* Be pro-active about safety issues.
 
 ## The practice of science
 
@@ -76,41 +76,35 @@ I believe that four principles are essential to success in science, and I encour
 ## Time in lab and time away
 
 * We don't punch a clock in the lab. However, lab members are expected to be available:
-    - *Graduate students and more senior personnel*: generally during working hours (9-5, more or less).
-    - *Undergraduates*: at least about 10 hours a week, on a schedule agreed with Drew.
-* Lab meetings
-* One-on-one meetings
-* *Ad hoc* meetings
+    - *Graduate students and more senior personnel*: generally during working hours (9-5 Monday - Friday, more or less).
+    - *Undergraduates*: about 10 hours a week at minimum, on a schedule agreed with Drew.
+* Lab meetings: We will hold weekly, scheduled lab meetings. All lab members are expected to attend, unless a classtime conflict prevents this.
+* One-on-one meetings: Each student will meet regularly with Drew. For most students, this meeting will happen weekly, although it may be more or less often depending on a student's specific needs. 
+* *Ad hoc* meetings: Derw has an open-door policy, including when working from home. Please be quick to "stop by" virtually or in person with questions or exciting observations.
 
 
+# Resources
 
-### Resources
+## Being creative
 
-* (Some links on scientific writing and creativity to come)
+* [How to write a scientific paper](https://www.nature.com/articles/d41586-018-02404-4)
+* More TK
 
-## Take care of yourself
+## Taking care of yourself
 
-You can't be creative when you're miserable. 
+* UT-K [Title IX Office](https://titleix.utk.edu/)
+* UT-K [Environmental Health and Safety](https://ehs.utk.edu)
+* UT-K [Mental Health clinic](https://counselingcenter.utk.edu/mental-health-clinic/)
+* [Steen Lab Safety Manual]() (link TK)
 
-* Get enough sleep.
-    - Even relatively moderate sleep loss has similar cognitive effects to being [too drunk to drive](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2869.1999.00167.x).
-* Do what you need to take care of your body, mind and soul.
-* **Safety comes first.** 
-* Advocate for yourself with Dr. Steen. I'll always try to 
 
-### Resources
+## Taking care of others
 
-* The lab safety manual is [here]().
-* Safety training is available [here]().
+* [Examples of Racial Microaggressions](https://www.sph.umn.edu/site/docs/hewg/microaggressions.pdf)
+* [Resources for Anti-Racist Teaching](https://ncte.org/blog/2017/08/there-is-no-apolitical-classroom-resources-for-teaching-in-these-times/)
+* More TK
 
-# Take care of your colleagues
+# Taking charge of your career
 
-* **Racism, sexism, and other forms of bigotry will not be tolerated.** If you feel that you are experiencing discrimination or harassment, you may speak to Drew, or to the UTK [Title IX office](https://titleix.utk.edu/students/reporting-an-incident/). 
-    - Note that almost all UTK staff, including all faculty, are [*mandatory reporters*](https://titleix.utk.edu/faculty-and-staff/mandatory-reporters/) for sexual harrassment, sexual assault, dating and domestic violence, stalking, sexual exploitation and retaliation. All mandatory reporters are legally required to communicate reports of these things to the UTK Title IX office.
-* Help out your lab-mates when you get the chance. Science is a group activity.
-* 
+* More TK
 
-# Take responsibility for your career
-
-* Write papers
-* Be in lab for 
