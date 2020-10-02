@@ -4,4 +4,4 @@ problem_pages/
 .Rhistory
 .RData
 .Ruserdata
-public/
+# public/
