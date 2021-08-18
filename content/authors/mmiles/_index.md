@@ -22,7 +22,7 @@ social:
   link: ''
 superuser: true
 user_groups:
-- Undergrads
+- Alumni
 ---
 
-Maryn has been in the lab since 2018, during which time she has performed a bioinformatic study of the presence of genes for sulfoquinovose degradation in marine sediments, and participated in a two-week research cruise in the North Atlantic Gyre.
+Maryn was in the lab from 2018-2020, during which time she performed a bioinformatic study of the presence of genes for sulfoquinovose degradation in marine sediments, and participated in a two-week research cruise in the North Atlantic Gyre.

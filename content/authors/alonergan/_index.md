@@ -22,7 +22,7 @@ social:
   link: '#contact'
 superuser: true
 user_groups:
-- Undergrads
+- Alumni
 ---
 
-Andrew has been in the lab since 2017, during which time he has investigated the activities of extracellular enzymes in hot springs in Panama.
+Andrew was in the lab from 2017-2020, during which time he investigated the activities of extracellular enzymes in hot springs in Panama.
