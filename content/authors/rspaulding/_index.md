@@ -15,7 +15,7 @@ name: Russell Spaulding II
 organizations:
 - name: University of Tennessee - Knoxville
   url: "https://www.utk.edu"
-role: undergrad
+role: Undergraduate student
 social:
 - icon: envelope
   icon_pack: fas

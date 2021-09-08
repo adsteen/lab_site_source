@@ -10,16 +10,16 @@ education:
   - course: BSc in Biology
     institution: Western Carolina University
     year: 2014
-email: "zstooksbury@gmail.com"
+email: "troyalty@vols.utk.edu"
 interests:
 - Bioinformatics
 - Data science
-- Proteomics
+- Microbial ecology
 name: Taylor Royalty
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
-role: Ph. D. student
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,7 +29,7 @@ social:
   link: https://scholar.google.com/citations?user=cgJwfFwAAAAJ
 superuser: true
 user_groups:
-- Postdocs
+- Postdoc # This controls what heading the person appears under
 ---
 
-Taylor is interested in using data science approaches to better understand the distribution of microbial functions across phylogeny and space. After earning a Ph.D. in Geology from UT-Knoxville in three years, he moved to a position as a post-doc in the Steen Lab, where he is working on using neural networks for better understand genomes of uncultured microorganisms in thawing Arctic permafrost.
+Taylor is interested in using data science approaches to better understand the distribution of microbial functions across phylogeny and space. After earning a Ph.D. in Geology from UT-Knoxville in three years, he moved to a position as a post-doc in the Steen Lab, where he is using data science tools to better understand the structure and function of microbial communities.

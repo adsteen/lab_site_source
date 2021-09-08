@@ -1,7 +1,7 @@
 ---
 authors:
 - pmather
-bio: Working on being a lawyer.
+bio: Is now a lawyer.
 education:
   courses:
   - course: Law student

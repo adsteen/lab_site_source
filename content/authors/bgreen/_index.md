@@ -1,7 +1,7 @@
 ---
 authors:
 - bgreen
-bio: Now I work on viruses.
+bio: Extracellular enzymes in Svalbard.
 education:
   courses:
   - course: BS in Earth Science

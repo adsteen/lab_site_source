@@ -15,7 +15,7 @@ name: Maryn Miles
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
-role: undergrad
+role: Undergraduate student
 social:
 - icon: envelope
   icon_pack: fas

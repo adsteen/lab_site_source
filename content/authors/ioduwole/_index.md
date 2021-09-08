@@ -16,7 +16,7 @@ name: Iyanu Oduwole
 organizations:
 - name: University of Tennessee - Knoxville
   url: "https://www.utk.edu"
-role: Ph.D. students
+role: Ph.D. student
 social:
 - icon: envelope
   icon_pack: fas
