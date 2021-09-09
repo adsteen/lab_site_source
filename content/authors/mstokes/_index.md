@@ -1,7 +1,7 @@
 ---
 authors:
 - mstokes
-draft: TRUE # SET THIS FALSE TO PUBLISH
+draft: false # SET THIS FALSE TO PUBLISH
 bio: I'm an undergrad.
 education:
   coursess:
