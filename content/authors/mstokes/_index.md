@@ -7,7 +7,7 @@ education:
   coursess:
   - course: BS in Chemistry
     institution: UT-Knoxville
-    year: expected May 2022
+    year: expected May 2023
 email: "mstoke13@vols.utk.edu"
 interests:
 name: Murray Stokes
@@ -23,4 +23,4 @@ superuser: false
 user_groups:
 - Undergrads
 ---
-Biography TK
+I enjoy investigating microbial communities and how they impact the global climate cycle. In my free time, I like to go white water rafting and running with my dog, Naomi. I am still very early in my academic career, so I am always trying to learn as much as possible!
