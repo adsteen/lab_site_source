@@ -6,7 +6,7 @@ education:
   courses:
   - course: BS in Anthropology
     institution: UT-Knoxville
-    year: expected 2021
+    year: 2021
 email: ""
 interests:
 - Geomicrobiology
