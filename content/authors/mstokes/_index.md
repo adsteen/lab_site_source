@@ -4,7 +4,7 @@ authors:
 draft: false # SET THIS FALSE TO PUBLISH
 bio: I'm an undergrad.
 education:
-  coursess:
+  courses:
   - course: BS in Chemistry
     institution: UT-Knoxville
     year: expected May 2023
