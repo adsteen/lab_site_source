@@ -12,6 +12,7 @@ education:
     year: 2020
 email: "ioduwole@vols.utk.edu"
 interests:
+  - bioinformatics
 name: Iyanu Oduwole
 organizations:
 - name: University of Tennessee - Knoxville

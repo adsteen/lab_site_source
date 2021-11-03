@@ -9,6 +9,8 @@ education:
     year: 2020
 email: "bgreen@vols.utk.edu"
 interests:
+  - soil extracellular enzymes
+  - soil mineralogy
 name: Brianna Green
 organizations:
 - name: University of Tennessee - Knoxville

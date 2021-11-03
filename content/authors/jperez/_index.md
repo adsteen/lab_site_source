@@ -9,6 +9,8 @@ education:
     year: 2018
 email: "jperez15@vols.utk.edu"
 interests:
+  - mineral surface chemistry
+  - enzymology
 name: Jake Perez
 organizations:
 - name: University of Tennessee - Knoxville

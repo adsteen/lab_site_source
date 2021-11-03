@@ -10,6 +10,8 @@ education:
     year: expected May 2023
 email: "mstoke13@vols.utk.edu"
 interests:
+  - analytical chemistry
+  - extracellular enzyme assays
 name: Murray Stokes
 organizations:
 - name: University of Tennessee - Knoxville
