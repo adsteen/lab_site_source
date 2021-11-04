@@ -12,6 +12,8 @@ education:
     year: 2014
 email: ""
 interests:
+  - Geomicrobiology
+  - Extracellular enzymes
 name: Jenna Schmidt
 organizations:
 - name: University of Tennessee - Knoxville
