@@ -20,9 +20,9 @@ organizations:
   url: ""
 role: Masters' student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+- #icon: envelope
+  #icon_pack: fas
+  #link: '#contact'
 superuser: false
 user_groups:
 - Alumni
