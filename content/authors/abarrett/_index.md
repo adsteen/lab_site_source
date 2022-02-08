@@ -20,7 +20,7 @@ organizations:
   url: ""
 role: Masters' student
 social:
-- #icon: envelope
+#- icon: envelope
   #icon_pack: fas
   #link: '#contact'
 superuser: false

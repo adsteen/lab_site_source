@@ -22,9 +22,9 @@ organizations:
   url: ""
 role: Undergraduate student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: ''
+# - icon: envelope
+#   icon_pack: fas
+#   link: ''
 superuser: true
 user_groups:
 - Alumni

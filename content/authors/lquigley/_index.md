@@ -24,12 +24,12 @@ organizations:
   url: ""
 role: Ph.D. student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=gaJE5xwAAAAJ&hl=en&oi=sra
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=gaJE5xwAAAAJ&hl=en&oi=sra
 superuser: false
 user_groups:
 - Alumni

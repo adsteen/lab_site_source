@@ -19,9 +19,9 @@ organizations:
   url: "https://www.utk.edu"
 role: Ph.D. student
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
 superuser: false
 user_groups:
 - Grad Students

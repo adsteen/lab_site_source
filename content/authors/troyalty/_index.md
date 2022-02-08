@@ -21,12 +21,12 @@ organizations:
   url: ""
 role: Postdoctoral researcher
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=cgJwfFwAAAAJ
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=cgJwfFwAAAAJ
 superuser: true
 user_groups:
 - Alumni # This controls what heading the person appears under
