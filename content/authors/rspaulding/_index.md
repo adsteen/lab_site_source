@@ -17,9 +17,9 @@ organizations:
   url: "https://www.utk.edu"
 role: Undergraduate student
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: ''
+- icon: envelope
+  icon_pack: fas
+  link: ''
 superuser: true
 user_groups:
 - Alumni

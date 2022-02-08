@@ -18,9 +18,9 @@ organizations:
   url: ""
 role: Undergraduate student
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: ''
+- icon: envelope
+  icon_pack: fas
+  link: ''
 superuser: false
 user_groups:
 - Undergrads

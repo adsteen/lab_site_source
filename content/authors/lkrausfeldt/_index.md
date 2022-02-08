@@ -19,9 +19,9 @@ organizations:
   url: ""
 role: Postdoctoral associate
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
 superuser: true
 user_groups:
 - Alumni
