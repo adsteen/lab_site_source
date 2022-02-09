@@ -4,13 +4,15 @@ authors:
 bio: Interested in machine learning applications for environmental microbiology.
 education:
   courses:
-  # - course: BS in Chemistry and Physics
-  #   institution: Arizona State University
-  #   year: 2018
+  - course: BS in Biotechnology
+    institution: University of Kurdistan
+    year: 2018
 email: "kkalhor@vols.utk.edu"
 interests:
-  - machine learning
-  - data science
+  - microbiology
+  - microbial genetics
+  - bioinformatics
+  - deep learning
 name: Kambiz Kalhor
 organizations:
 - name: University of Tennessee - Knoxville
@@ -25,3 +27,4 @@ user_groups:
 - Grad Students
 ---
 
+First and foremost, I am a microbiologist. I have been obsessed with the idea of using computers to solve problems in microbiology.
