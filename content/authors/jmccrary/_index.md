@@ -1,7 +1,7 @@
 ---
 authors:
 - jmccrary
-draft: TRUE # SET THIS FALSE TO PUBLISH
+draft: FALSE # SET THIS FALSE TO PUBLISH
 bio: I'm an undergrad.
 education:
   coursess:
