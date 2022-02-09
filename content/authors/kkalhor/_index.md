@@ -4,9 +4,9 @@ authors:
 bio: Interested in machine learning applications for environmental microbiology.
 education:
   courses:
-  - course: BS in Biotechnology
+  - course: B.Sc. in Biotechnology
     institution: University of Kurdistan
-    year: 2018
+    year: 2019
 email: "kkalhor@vols.utk.edu"
 interests:
   - microbiology
