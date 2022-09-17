@@ -21,6 +21,6 @@ social:
   link: ''
 superuser: false
 user_groups:
-- Undergrads
+- Alumni
 ---
 Biography TK

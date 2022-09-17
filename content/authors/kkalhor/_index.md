@@ -17,7 +17,7 @@ name: Kambiz Kalhor
 organizations:
 - name: University of Tennessee - Knoxville
   url: "https://www.utk.edu"
-role: Ph.D. student (rotating)
+role: Ph.D. student
 social:
 - icon: envelope
   icon_pack: fas
