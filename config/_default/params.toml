@@ -53,6 +53,11 @@ date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
 time_format = "3:04 PM"
 
+# Analytics: google tracking
+marketing:
+  analytics:
+    google_analytics: 'UA-60056958-1'
+
 ############################
 ## Contact Widget setup   ##
 ############################
@@ -60,7 +65,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "asteen1@utk.edu"
 phone = ""
-address = "717 Strong Hall, 1621 Cumberland Ave, Knoxville, TN 37917, USA"
+address = "1311 Cumberland Ave, 307 Ken and Blaire Mossman Building, Knoxville, TN 37996, USA"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
