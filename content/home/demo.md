@@ -49,6 +49,8 @@ subtitle = ""
 
 We study the biology of heterotrophic microbes in aquatic environments in order to understand their effect on the Earth's geochemical cycles.
 
+**The Steen Lab will move to the [University of Southern California](https://www.usc.edu/) [Marine and Environmental Biology section](https://dornsife.usc.edu/meb/) in August 2024.**
+
 <!---{{% alert note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 

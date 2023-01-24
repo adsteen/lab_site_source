@@ -74,7 +74,7 @@ gallery_item:
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
 
-{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png" lightbox="true" >}}
+{{< figure src="https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic_TEST.png" lightbox="true" >}}
 
 **Key features:**
 
