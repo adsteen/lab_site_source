@@ -18,7 +18,7 @@ description = "SteenLab website"
 sharing_image = "lab_logo.png"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = "drdrewsteen"
+# twitter = "drdrewsteen"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -69,7 +69,7 @@ office_hours = ""
 #                   Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendar.google.com/calendar/embed?mode=week&src=andrew.decker.steen%40gmail.com&ctz=America/New_York"
+appointment_url = "https://bit.ly/steen_cal"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -98,8 +98,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "35.957262"
-longitude = "-83.931100"
+latitude = "34.02167" # 34 01'18"
+longitude = "-118.2892" # 118 17 21
 zoom = 16
 
 ############################
