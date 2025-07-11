@@ -59,9 +59,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "asteen1@utk.edu"
+email = "asteen@usc.edu"
 phone = ""
-address = "1311 Cumberland Ave, 307 Ken and Blaire Mossman Building, Knoxville, TN 37996, USA"
+address = "124 Michelson Center for Convergent Bioscience, 1002 Childs Way, Los Angeles, CA 90089"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
