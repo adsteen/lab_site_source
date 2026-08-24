@@ -17,6 +17,7 @@ interests:
 - GIS
 - Marine Sciences
 name: Zachery Stooksbury
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -29,5 +30,4 @@ superuser: true
 user_groups:
 - Alumni
 ---
-
 Zachery was with the lab from 2017-2020, during which time he worked on several projects relating to geological controls on microbially-catalyzed carbon cycling in marine and estuarine sediments. Zachery is now a graduate student at the UNC Department of Earth, Marine, and Environmental Sciences.

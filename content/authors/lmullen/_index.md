@@ -16,6 +16,7 @@ interests:
 - Extracellular enzymes
 - Health microbiology
 name: Lauren Mullen
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -28,5 +29,4 @@ superuser: true
 user_groups:
 - Alumni
 ---
-
 Lauren was in the Steen lab from 2014 to 2020, during which time she worked as an undergraduate researcher, lab manager, and graduate student. After completing a master's thesis on enzyme activities in contrasting temperate and Arctic estuarine sediments, she has taken a job at [Microbial Insights](https://microbe.com/), a Knoxville consulting firm that provides a diverse range of services related to environmental microbiology, including environmental remediation, environmental forensics, microbiologically-influenced corrosion and microbial source tracking.

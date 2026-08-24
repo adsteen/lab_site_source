@@ -15,6 +15,7 @@ interests:
 - Nanomaterials in biological environments
 - Nanosensor development
 name: Rebecca L. Pinals
+pronouns: ""
 organizations:
 - name: Brown University
   url: "https://www.brown.edu"
@@ -32,5 +33,4 @@ superuser: false
 user_groups:
 - Alumni
 ---
-
 Rebecca is an NSF Graduate Research Fellow pursuing her PhD in UC Berkeley’s Chemical and Biomolecular Engineering Department. She graduated with her BS in Chemical Engineering from Brown University in 2016. In the summer of 2015, Rebecca worked with Dr. Steen in studying bioavailability of nutrients to extracellular enzymes in deep subsurface sediments. Her current research in Markita Landry’s lab focuses on designing fluorescent carbon nanomaterial-based sensors to probe biological systems.

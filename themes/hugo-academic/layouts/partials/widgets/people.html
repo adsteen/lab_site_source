@@ -26,7 +26,8 @@
   {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
   {{/* Get link to user's profile page. */}}
   {{ $link := "" }}
-  {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
+  {{ $username := path.Base (path.Dir .File.Path) }}
+  {{ with site.GetPage (printf "/authors/%s" $username) }}
     {{ $link = .RelPermalink }}
   {{ end }}
   <div class="col-12 col-sm-auto people-person">
@@ -43,6 +44,7 @@
 
     <div class="portrait-title">
       <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Params.name }}{{if $link}}</a>{{end}}</h2>
+      {{ with .Params.pronouns }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
       {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}
     </div>

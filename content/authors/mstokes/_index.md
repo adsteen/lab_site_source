@@ -13,6 +13,7 @@ interests:
   - analytical chemistry
   - extracellular enzyme assays
 name: Murray Stokes
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -23,6 +24,6 @@ social:
   link: ''
 superuser: false
 user_groups:
-- Undergrads
+- Alumni
 ---
 I enjoy investigating microbial communities and how they impact the global climate cycle. In my free time, I like to go white water rafting and running with my dog, Naomi. I am still very early in my academic career, so I am always trying to learn as much as possible!

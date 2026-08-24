@@ -14,6 +14,7 @@ email: "ioduwole@vols.utk.edu"
 interests:
   - bioinformatics
 name: Iyanu Oduwole
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: "https://www.utk.edu"
@@ -24,6 +25,5 @@ social:
   link: '#contact'
 superuser: false
 user_groups:
-- Grad Students
+- Alumni
 ---
-

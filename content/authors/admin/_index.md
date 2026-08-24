@@ -23,10 +23,11 @@ interests:
 - Bioinformatics
 - Machine learning
 name: Drew Steen
+pronouns: "he/him"
 organizations:
-- name: University of Tennessee - Knoxville
-  url: "http://www.utk.edu"
-role: Assistant Professor of Microbiology and Earth and Planetary Sciences
+- name: University of Southern California
+  url: "https://dornsife.usc.edu/profile/drew-steen/"
+role: Associate Professor of Biological Sciences and Earth Sciences
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,5 +45,4 @@ superuser: true
 user_groups:
 - Principal Investigator
 ---
-
 Drew Steen is interested in microbe-organic matter interactions in aquatic environments. 

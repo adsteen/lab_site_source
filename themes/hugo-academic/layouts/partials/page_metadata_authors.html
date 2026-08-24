@@ -2,6 +2,9 @@
 
 {{ $taxonomy := "authors" }}
 {{ with .Param $taxonomy }}
+  {{- if eq $.Type "publication" -}}
+    <span>Steen Lab authors: </span>
+  {{- end -}}
   {{ range $index, $value := . }}
     {{- $profile_page := site.GetPage (printf "/%s/%s" $taxonomy (. | urlize)) -}}
     {{- $name := $profile_page.Params.name | default ($value|markdownify) -}}

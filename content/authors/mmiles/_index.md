@@ -12,6 +12,7 @@ interests:
 - Geomicrobiology
 - Extracellular enzymes
 name: Maryn Miles
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -24,5 +25,4 @@ superuser: true
 user_groups:
 - Alumni
 ---
-
 Maryn was in the lab from 2018-2020, during which time she performed a bioinformatic study of the presence of genes for sulfoquinovose degradation in marine sediments, and participated in a two-week research cruise in the North Atlantic Gyre.

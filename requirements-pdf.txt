@@ -1,0 +1,9 @@
+pypdf
+pdfplumber
+pdfminer.six
+PyMuPDF
+pikepdf
+pandas
+openpyxl
+rapidfuzz
+camelot-py[cv]

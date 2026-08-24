@@ -15,6 +15,7 @@ interests:
   - Geomicrobiology
   - Extracellular enzymes
 name: Jenna Schmidt
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -27,5 +28,4 @@ superuser: false
 user_groups:
 - Alumni
 ---
-
 Jenna joined the lab in 2014 and studied the activities of extracellular enzymes in deep subsurface sediments of the Baltic Sea, collected during [IODP Expedition 347](http://publications.iodp.org/proceedings/347/347toc.htm)

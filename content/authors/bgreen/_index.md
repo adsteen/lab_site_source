@@ -12,6 +12,7 @@ interests:
   - soil extracellular enzymes
   - soil mineralogy
 name: Brianna Green
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: "https://www.utk.edu"
@@ -22,7 +23,6 @@ social:
   link: '#contact'
 superuser: false
 user_groups:
-- Grad Students
+- Alumni
 ---
-
 I enjoy looking at water contaminants and it’s interaction with rocks and life around (biogeochemistry). I also like exploring the relationship between climate cycles and biogeochemistry. In summary, biogeochemistry as it pertains to water, soil, and climate!

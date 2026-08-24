@@ -7,14 +7,22 @@ education:
   - course: BS in Chemistry and Physics
     institution: Arizona State University
     year: 2018
+  - course: MS in Geology
+    institution: University of Tennessee - Knoxville
+    year: 2024
+  - course: Ph.D. in Earth Sciences
+    institution: Univesrity of Southern California
+    year: 2029 (expected)
 email: "jperez15@vols.utk.edu"
 interests:
+  - geochemistry
   - mineral surface chemistry
-  - enzymology
+  - proteomics
 name: Jake Perez
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
-  url: "https://www.utk.edu"
+  url: "https://dornsife.usc.edu/earth/profile/jacob-perez/"
 role: Ph.D. student
 social:
 - icon: envelope
@@ -24,9 +32,5 @@ superuser: false
 user_groups:
 - Grad Students
 ---
+I consider myself to be an analytical chemist with a passion for field work – land and sea. I gear my research towards trying to understand the interplay between microbial life and its environment. I am currently focused on studying enzyme structure and how it varies in the environment by using chemoproteomic techniques, such as activity-based protein profiling, and molecular dynamics simulations. I am also interested in geochemical perspectives on geomicrobiology by studying organic matter in a variety of environments using fluorescence spectroscopy.
 
-I am interested in studying how various chemical species behave on a molecular scale in water-rock-soil-life systems (environmental geochemistry). I also enjoy looking into employing isotopic tracers as a way to understand paleoocean environments. Broadly, I seek to understand and model what chemical behaviors have measurable impacts from a geological standpoint.
-
-Education:
-BS in Chemistry and Physics, 2018
-Arizona State University

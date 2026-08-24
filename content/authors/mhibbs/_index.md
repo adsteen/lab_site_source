@@ -19,6 +19,7 @@ interests:
 - Statistics
 - Atmospheric chemistry
 name: Mattie Hibbs
+pronouns: ""
 organizations:
 - name: University of Tennnessee - Knoxville
   url: ""
@@ -31,5 +32,4 @@ superuser: true
 user_groups:
 - Alumni
 ---
-
 Mattie worked for the lab in the Summer of 2021. Having a background in statistics, she built a database for a project which examined the distribution of genomic novelty in uncultured microbes. She is now pursuing a PhD at McGill University in Atmospheric and Oceanic Sciences.  

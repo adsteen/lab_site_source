@@ -16,6 +16,7 @@ interests:
 - Data science
 - Microbial ecology
 name: Taylor Royalty
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -31,7 +32,6 @@ superuser: true
 user_groups:
 - Alumni # This controls what heading the person appears under
 ---
-
 Taylor is interested in using data science approaches to better understand the distribution of microbial functions across phylogeny and space. After earning a Ph.D. in Geology from UT-Knoxville in three years, he moved to a position as a post-doc in the Steen Lab, where he used using data science tools to better understand the structure and function of microbial communities.
 
 Taylor is now a scientist at [SomaLogic](https://somalogic.com/) working on designing aptamers. 

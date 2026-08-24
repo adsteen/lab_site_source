@@ -12,6 +12,7 @@ interests:
 - Geomicrobiology
 - Extracellular enzymes
 name: Andrew Lonergan
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
@@ -24,5 +25,4 @@ superuser: true
 user_groups:
 - Alumni
 ---
-
 Andrew was in the lab from 2017-2020, during which time he investigated the activities of extracellular enzymes in hot springs in Panama.

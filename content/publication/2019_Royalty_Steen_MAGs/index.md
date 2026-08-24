@@ -23,11 +23,10 @@ tags:
 title: "Theoretical and Simulation-Based Investigation of the Relationship between Sequencing Effort, Microbial Community Richness, and Diversity in Binning Metagenome-Assembled Genomes"
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: pdf/2019_Royalty_Steen_MAG_sequencing.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
 ---
-

@@ -14,6 +14,7 @@ interests:
   - bioinformatics
   - deep learning
 name: Kambiz Kalhor
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: "https://www.utk.edu"
@@ -26,5 +27,4 @@ superuser: false
 user_groups:
 - Grad Students
 ---
-
 First and foremost, I am a microbiologist. I have been obsessed with the idea of using computers to solve problems in microbiology.

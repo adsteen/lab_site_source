@@ -11,6 +11,7 @@ education:
 email: "jmccrar1@vols.utk.edu"
 interests:
 name: Jerry McCrary
+pronouns: ""
 organizations:
 - name: University of Tennessee - Knoxville
   url: ""
