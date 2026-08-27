@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | Steen Lab</title>
+    <link>https://adsteen.github.io/tags/bioinformatics/</link>
+      <atom:link href="https://adsteen.github.io/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>Bioinformatics</title>
+      <link>https://adsteen.github.io/tags/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>Subsurface enzymes and community evolution</title>
+      <link>https://adsteen.github.io/project/stability/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/project/stability/</guid>
+      <description>&lt;p&gt;Evolution in subsurface sediments looks pretty weird: there&amp;rsquo;s very little in the way of immigration or emigration, and arguably very little evolution of new species because subsurface microbes divide so slowly. However, heterotrophic microbes in the subsurface do appear to show adaptations to the subsurface environment, including via &lt;a href=&#34;https://adsteen.github.io/publication/2019_steen_et_al_wor_enz/&#34;&gt;extracellular enzymes tailored to degrade organic matter&lt;/a&gt; and &lt;a href=&#34;https://adsteen.github.io/publication/2021_schmidt_et_al/&#34;&gt;highly stable extracellular enzymes&lt;/a&gt;  that provide long-term return to the slowly-metabolizing cells in the subsurface.&lt;/p&gt;
+&lt;p&gt;Drew Steen has recently been awarded an &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145434&amp;amp;HistoricalAwards=false&#34;&gt;NSF CAREER grant&lt;/a&gt; to study this issue more directly. We will collect samples from the Gulf of Alaska and study the stability of enzymes in sediments using theoretical and experimental methods to better understand how subsurface microbial communities evolve, and to what extent enzyme stability is a driver of that evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bioinformatic meta-analyses</title>
+      <link>https://adsteen.github.io/project/meta-analyses/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/project/meta-analyses/</guid>
+      <description>&lt;p&gt;DNA and RNA sequence data are being deposited in public repositories at an astonishing rate. The quantity of sequence data in GenBank, for instance, has doubled approximately every 18 months since 1982! This is an extraordinarily rich source of information about microbial life. I argue that it is impossible to use all of the information in a sequence data set in a single study, and further that we can learn a lot by combining data from disparate studies that were not initially intended to be compared.&lt;/p&gt;
+&lt;p&gt;One line of research in the Steen Lab has been to see what we can learn from public data sets. We have helped to quantify the number of uncultured cells on Earth, the degree to which microbial traits are conserved as a function of taxonomic rank, and the relationship between DNA sequencing effort and the quantity of metagenome-assembled genomes (MAGs) that can be obtained.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

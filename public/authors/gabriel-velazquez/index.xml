@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steen Lab</title>
+    <link>https://adsteen.github.io/authors/gabriel-velazquez/</link>
+      <atom:link href="https://adsteen.github.io/authors/gabriel-velazquez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steen Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>Steen Lab</title>
+      <link>https://adsteen.github.io/authors/gabriel-velazquez/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/gabriel-velazquez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/gabriel-velazquez/</guid>
+      <description>&lt;p&gt;I am interested in how microorganisms evolved and adapted in Earth&amp;rsquo;s early ecosystems. I am also particularly passionate about utilizing metagenomic data from ancient sediments. My broader interest in research is to use genetic data from tehse samples to understand how life could evolve in similar environments on other planets.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Steen Lab</title>
+    <link>https://adsteen.github.io/publication_types/3/</link>
+      <atom:link href="https://adsteen.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>3</title>
+      <link>https://adsteen.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Tracing the evolution of microbial alkaline phosphatases and their role in phosphorus recycling through time</title>
+      <link>https://adsteen.github.io/publication/2026_sanger_phospahatse_preprint/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2026_sanger_phospahatse_preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional genomic signatures predict microbial culturability across the tree of life</title>
+      <link>https://adsteen.github.io/publication/2025_oduwole_uncultured_model/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2025_oduwole_uncultured_model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microbial exoenzymes catalyzed the transition to an oxygenated Earth</title>
+      <link>https://adsteen.github.io/publication/2025_sanger_et_al_early_enz/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2025_sanger_et_al_early_enz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermophilic traits correlate with slow growth in permafrost soils</title>
+      <link>https://adsteen.github.io/publication/2025_oduwole_thermophile_slow_growth/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2025_oduwole_thermophile_slow_growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Redundancy in Ocean Microbiomes Controls Trait Stability</title>
+      <link>https://adsteen.github.io/publication/2021_royalty_fxl_redundancy/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2021_royalty_fxl_redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A quantitative measure of functional redundancy in microbial ecosystems</title>
+      <link>https://adsteen.github.io/publication/2021_royalty_contribution_evenness/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2021_royalty_contribution_evenness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unaligned Sequence Similarity Search Using Deep Learning</title>
+      <link>https://adsteen.github.io/publication/2019_senter_alignment/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2019_senter_alignment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

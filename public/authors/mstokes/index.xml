@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steen Lab</title>
+    <link>https://adsteen.github.io/authors/mstokes/</link>
+      <atom:link href="https://adsteen.github.io/authors/mstokes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steen Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>Steen Lab</title>
+      <link>https://adsteen.github.io/authors/mstokes/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/mstokes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/mstokes/</guid>
+      <description>&lt;p&gt;I enjoy investigating microbial communities and how they impact the global climate cycle. In my free time, I like to go white water rafting and running with my dog, Naomi. I am still very early in my academic career, so I am always trying to learn as much as possible!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adsteen.github.io/authors/pirich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/authors/pirich/</guid>
+      <description>&lt;p&gt;I am interested in studying how carbon moves through microbial communities and the mechanisms by which it does so. I look into metabolomic data to trace the movement of isotopically-labeled carbon and nitrogen over time. I am also interested by how enzymes and their activity varies in sediments and how this effects the communities using those enzymes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

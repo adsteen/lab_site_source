@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Steen Lab</title>
+    <link>https://adsteen.github.io/publication_types/1/</link>
+      <atom:link href="https://adsteen.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2026</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adsteen.github.io/img/lab_logo.png</url>
+      <title>1</title>
+      <link>https://adsteen.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Transformer-based Prediction of Microbial Growth Rates from Genomic Data</title>
+      <link>https://adsteen.github.io/publication/2025_oduwole_transformer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2025_oduwole_transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparison of dimensionality reduction methods for large biological data</title>
+      <link>https://adsteen.github.io/publication/2022_babjac_classify_microbiomes/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://adsteen.github.io/publication/2022_babjac_classify_microbiomes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
