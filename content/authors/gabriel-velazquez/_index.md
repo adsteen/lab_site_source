@@ -4,7 +4,10 @@ authors:
 draft: false
 bio: ""
 education:
-  courses: []
+  courses:
+  - course: "B.S. in Biological Sciences and Minor in Geobiology"
+    institution: University of Southern California
+    year: expected 2027
 email: ""
 interests: 
   - paleogenomics
