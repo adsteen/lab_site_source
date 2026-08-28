@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2020-09-02T00:00:00Z"
 doi: "10.3389/fmars.2020.00718"
-featured: true
+featured: false
 image:
   caption: 
   focal_point: ""

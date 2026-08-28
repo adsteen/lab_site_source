@@ -17,9 +17,9 @@ interests:
   - bioinformatics
   - deep learning
 name: Kambiz Kalhor
-pronouns: ""
+pronouns: "he/him"
 organizations:
-- name: University of Southern California
+- name: USC Marine and Environmental Biology
   url: "https://dornsife.usc.edu/meb/people/graduate-students/"
 role: Ph.D. student
 social:

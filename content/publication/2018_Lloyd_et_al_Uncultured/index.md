@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2018-06-30T00:00:00Z"
 doi: "10.1128/mSystems.00055-18"
-featured: true
+featured: false
 image:
   caption: 
   focal_point: ""

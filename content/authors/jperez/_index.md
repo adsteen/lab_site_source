@@ -13,15 +13,15 @@ education:
   - course: Ph.D. in Earth Sciences
     institution: Univesrity of Southern California
     year: 2029 (expected)
-email: "jperez15@vols.utk.edu"
+email: "jacobper@usc.edu"
 interests:
   - geochemistry
   - mineral surface chemistry
   - proteomics
 name: Jake Perez
-pronouns: ""
+pronouns: "he/him"
 organizations:
-- name: University of Tennessee - Knoxville
+- name: USC Earth Sciences
   url: "https://dornsife.usc.edu/earth/profile/jacob-perez/"
 role: Ph.D. student
 social:

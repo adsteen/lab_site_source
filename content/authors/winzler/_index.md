@@ -10,7 +10,7 @@ interests: []
 name: Meghan Winzler
 pronouns: ""
 organizations:
-- name: University of Southern California
+- name: USC Marine and Environmental Biology
   url: "https://www.usc.edu"
 role: Graduate student
 social:

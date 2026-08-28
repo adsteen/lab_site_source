@@ -20,8 +20,6 @@ email: "asteen1@utk.edu"
 interests:
 - Geomicrobiology
 - Marine organic geochemistry
-- Bioinformatics
-- Machine learning
 name: Drew Steen
 pronouns: "he/him"
 organizations:
@@ -32,9 +30,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/drdrewsteen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JKSGdVIAAAAJ

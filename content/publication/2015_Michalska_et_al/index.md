@@ -4,7 +4,7 @@ authors:
 - admin
 date: "2015-06-10T00:00:00Z"
 doi: "10.1096/fj.15-272906"
-featured: true
+featured: false
 image:
   caption: 'Structure of Bathyaminopeptidase (BAP), a peptidase from an uncultured sedimentary archaeon.'
   focal_point: ""
