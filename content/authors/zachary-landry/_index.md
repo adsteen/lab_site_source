@@ -2,16 +2,21 @@
 authors:
 - zachary-landry
 draft: false
-bio: ""
+bio: "zlandry@usc.edu"
 education:
   courses: []
 email: ""
-interests: []
+interests: 
+  - Chemical ecology
+  - Modeling of cellular resource allocation 
+  - Genomics->phenomics 
+  - Cultivation
+  - Determinism in microbial systems
 name: Zachary Landry
-pronouns: ""
+pronouns: "he/him"
 organizations:
 - name: University of Southern California
-  url: "https://www.usc.edu"
+  url: "https://dornsife.usc.edu/profile/zachary-landry/"
 role: Senior Scientist
 social:
 - icon: envelope
@@ -21,3 +26,4 @@ superuser: false
 user_groups:
 - Senior Scientist
 ---
+I am interested in how bacteria survive in non-ideal growth scenarios, particularly in environments with low or periodic energy inputs. Much of my research looks at how bacteria interact with their chemical environment and how particular genotypes and their corresponding phenotypes can help them survive.  I use a wide range of techniques in my research, coupling computational modeling and analysis approaches with 'omics analyses, analytical chemistry, chemical imaging and cultivation to answer questions about the mechanisms that allow cells to persist or thrive in unpredictible or hostile environments.
