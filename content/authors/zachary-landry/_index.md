@@ -7,12 +7,12 @@ education:
   courses: 
   - course: Postdoctoral Researcher/Senior Scientist
     institution: ETH Zürich
-    year: 2016-2023
+    year: 2017-2023
   - course: PhD in Microbiology
     institution: Oregon State University
     year: 2016
   - course: Research Associate
-    institution: J. Craig Venter institute
+    institution: J. Craig Venter Institute
     year: 2006-2009
   - course: BA in Biological Sciences
     institution: Connecticut College
