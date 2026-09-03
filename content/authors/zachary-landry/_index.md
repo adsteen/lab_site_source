@@ -5,7 +5,7 @@ draft: false
 bio: "zlandry@usc.edu"
 education:
   courses: [
-    - course: Postdoctoral Researcher/Senior Scientist
+  - course: Postdoctoral Researcher/Senior Scientist
     institution: ETH Zürich
     year: 2016-2023
   - course: PhD in Microbiology
