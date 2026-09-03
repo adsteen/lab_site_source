@@ -3,7 +3,7 @@
 # This should be run from the source code directory, not from public
 
 # Copy my current CV into static/files/cv.pdf
-cp ~/Dropbox\ \(Personal\)/Drew/Funding/CVs/Steen\ CV\ -\ current.pdf static/files/cv.pdf
+cp ~/Dropbox/funding/CVs/Steen\ CV\ -\ current.pdf static/files/cv.pdf
 
 # If a command fails then the deploy stops
 set -e
