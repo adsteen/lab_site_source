@@ -7,7 +7,7 @@ education:
   courses: 
   - course: Postdoctoral Researcher/Senior Scientist
     institution: ETH Zürich
-    year: 2016-2023
+    year: 2017-2023
   - course: PhD in Microbiology
     institution: Oregon State University
     year: 2016
