@@ -4,7 +4,7 @@ authors:
 draft: false
 bio: "zlandry@usc.edu"
 education:
-  courses: [
+  courses: 
   - course: Postdoctoral Researcher/Senior Scientist
     institution: ETH Zürich
     year: 2016-2023
@@ -17,7 +17,7 @@ education:
   - course: BA in Biological Sciences
     institution: Connecticut College
     year: 2006
-]
+
 email: ""
 interests: 
   - Chemical ecology
