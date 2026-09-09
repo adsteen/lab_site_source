@@ -20,11 +20,11 @@ education:
 
 email: ""
 interests: 
-  - Chemical ecology
-  - Modeling of cellular resource allocation 
-  - Genomics->phenomics 
-  - Cultivation
-  - Determinism in microbial systems
+  - chemical ecology of microbes
+  - modeling of cellular resource allocation and survival
+  - genomics-to-phenomics 
+  - cultivation
+  - determinism in microbial systems
 name: Zachary Landry
 pronouns: "he/him"
 organizations:
