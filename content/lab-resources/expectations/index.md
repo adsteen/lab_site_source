@@ -71,7 +71,7 @@ I believe that four principles are essential to success in science, and I encour
 
 * Record all your work in a lab notebook. We will provide you with one. Lab notebook pages should be formatted as described [here]() *link to come*.
 * Store all data on the lab Google Drive site (or marie as appropriate). If possible, you should install the Drive File Stream app on your computer, so the lab drive will appear on your hard drive.
-* Use high-quality passwords for your UTK account and your marie account. A password manager such as [LastPass](https://www.lastpass.com) is helpful in this regard.
+* Use high-quality passwords for your USC account and your CARC account. A password manager such as [LastPass](https://www.lastpass.com) is helpful in this regard.
 
 ## Time in lab and time away
 
